@@ -1,0 +1,47 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zentrumsgegenstoß"]
+[Black "Direkter Damentausch"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "27"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} d5 {
+Das ist die aggressivste schwarze Antwort. Der Zug zwingt Weiß sofort, sich
+zu entscheiden. Er ist dadurch gerechtfertigt, dass Schwarz sofort seinen
+Anspruch auf das Zentrum geltend macht und die schwarze Dame nicht auf d5
+durch den weißen Damenspringer angegriffen werden kann. Weiß erhält in der
+Folge einen isolierten Damenbauern auf d4, der mit Dame, Damenspringer und
+Damenläufer angegriffen werden kann. Das ist die aggressivste schwarze
+Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält einen
+isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden kann.} 3. exd5 {
+Weiß muss und will diesen Bauern schlagen. Er lockt die schwarze Dame in das
+Zentrum. Hier steht sie sehr aktiv, ist aber auch angreifbar.} Qxd5 {Für den
+Augenblick macht die schwarze Stellung einen guten Eindruck. Die schwarze Dame
+kontrolliert die Zentralfelder und der Bauer auf c5 reduziert das weiße
+Bauernzentrum auf d4.} 4. d4 {Dieser Zug ist der programmatische Vorstoß,
+denn Weiß erobert sich auf Kosten eines isolierten Damenbauern Raum und und
+öffnet Linien und Diagonalen für seine Figuren.} Nc6 {[%csl Ye5][%cal Rc5d4,
+Rc6d4,Rd5d4,Ge7e5,Re5d4] In diesem System dreht sich alles um den Vorstoß
+e7-e5 und wie Schwarz den Druck auf d4 noch weiter steigern kann. Schwarz kann
+auch direkt e7-e5 spielen (wie in der Variante (b) unten angegeben) oder er
+kann auch erst auf d4 schlagen, um danach e7-e5 zu spielen (wie in der
+Variante (a) unten angegeben).} 5. Nf3 {Weiß deckt den Bauern auf d4 und
+entwickelt eine Figur.} {Der Direkte Damentausch beginnt mit} e5 6. dxe5 Qxd1+
+7. Kxd1 {Schwarz hat einige Möglichkeiten, den e-Bauern einzukreisen, aber
+das garantiert noch keinen Ausgleich, zum Beispiel} Bg4 8. Bf4 Nge7 9. Kc2 Ng6
+10. Bg3 h5 11. h4 O-O-O 12. Na3 Bf5+ (12... Bxf3 13. gxf3 Ngxe5 {gewinnt den
+Bauern zurück, aber die weißen Figuren erwachen zum Leben nach} 14. Re1 Nxf3
+$4 15. Bh3+) 13. Kb3 Be6+ ({Vor} 13... Na5+ 14. Ka4 Nc6 15. Nc4 {[%csl Yd6]
+[%cal Gc4d6] gefolgt von Sc4-d6+ braucht Weiß keine Angst haben.}) 14. c4 {
+[%csl Yc2,Yc3][%cal Gb3c3,Ga3c2] , wonach sich Weiß mit Kb3-c3 und Sa3-c2
+reorganisieren kann.} *
+

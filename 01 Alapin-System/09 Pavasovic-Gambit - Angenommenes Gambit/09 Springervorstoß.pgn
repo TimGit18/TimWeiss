@@ -1,0 +1,36 @@
+[Event "The Complete c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pavasovic-Gambit"]
+[Black "Springervorstoß"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Evgeny Sveshnikov"]
+[PlyCount "41"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} Nf6 {
+Das ist der stärkste Gegenzug von Schwarz.} 3. e5 {Analog der
+Alekhine-Verteidigung lockt Schwarz den Bauern nach e5, um ihn zu schwächen
+und das starke Feld d5 zu besetzen. Er wird den Bauern mit Sb8-c6 und d7-d6
+weiter unter Druck setzen und angreifen. Anders als in der
+Alekhine-Verteidigung kann Weiß nicht gut c3-c4 spielen, denn das wäre ein
+ernsthafter Tempoverlust.} Nd5 {Der Springer kann hier nicht so schnell
+vertrieben werden. Er darf aber auch nicht einfach so toleriert werden.} 4. d4
+{Weiß muss versuchen die Stellung zu öffnen, um den starken Springer auf d5
+zu unterminieren und um sein Zentrum zu stärken.} cxd4 5. cxd4 d6 6. Nf3 Nc6
+7. Bc4 Nb6 8. Bb3 dxe5 9. d5 $1 {Weiß muss dieses Bauernopfer schon bringen.}
+({Nach} 9. dxe5 $2 Qxd1+ 10. Bxd1 {hat Schwarz sein Ziel erreicht und die
+Stellung vereinfacht.}) {Der Springervorstoß beginnt mit} 9... Nd4 10. Nxd4
+exd4 11. Qxd4 e6 12. Nc3 exd5 13. O-O {zu einer Stellung, in der Weiß für
+den geopferten Bauern Entwicklungsvorsprung hat.} Be6 14. Re1 Qf6 ({Oder} 14...
+Be7 15. Qxg7 Bf6 16. Qg3 Qd7 17. Bf4 O-O-O 18. Rac1 Nc4 19. Nxd5 Bxd5 20. Bxc4
+Bc6 21. Bb5 $4 Bxb2 22. Rxc6+ bxc6 23. Ba6+ {aus Reza,W (2107)-Sokolowski,R 
+(1836) Gorzow Wielkopolski 2013}) 15. Ba4+ Kd8 16. Qd1 Bb4 17. Bd2 Rc8 18. Bb3
+Qf5 19. Nxd5 Nxd5 20. Bxb4 Kc7 21. Rc1+ *
+

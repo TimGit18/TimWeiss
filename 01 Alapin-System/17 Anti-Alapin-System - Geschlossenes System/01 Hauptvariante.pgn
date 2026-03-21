@@ -1,0 +1,30 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Geschlossenes Anti-Alapin"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "29"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das geschlossene Anti-Alapin schließt das Zentrum gegen den
+Öffnungszug d2-d4 ab.} e5 3. Nf3 Nc6 4. Bc4 {Mit den schwarzen Bauern auf e5
+und c5 liegt der Läuferzug nach c4 nahe. Denn auf d5 ist ein riesiges Loch.}
+Be7 $1 {Schwarz bereitet die Springerentwicklung nach f6 vor, ohne durch
+Sf3-g5 belästigt zu werden.} 5. d4 {Jetzt ist es endlich Zeit diesen Vorstoß
+zu spielen.} cxd4 {Schwarz kann sich ein passives Abwarten erst gar nicht
+erlauben.} ({Schwarz sollte} 5... d6 $2 6. dxe5 dxe5 7. Qb3 $1 {vermeiden.}) 6.
+cxd4 exd4 7. O-O {Alternativ kann Weiß auch direkt auf d4 schlagen. Oft
+transponiert das Spiel dann in die Hauptvariante.} Nf6 8. e5 Ne4 9. Bd5 Nc5 10.
+Nxd4 {Weiß erhält schönen Entwicklungsvorsprung.} Nxe5 11. f4 {zum Beispiel
+mit} Ned3 12. Be3 O-O 13. Nc3 d6 14. Qe2 Nb4 15. Rad1 {mit Kompensation für
+den Bauern.} *
+

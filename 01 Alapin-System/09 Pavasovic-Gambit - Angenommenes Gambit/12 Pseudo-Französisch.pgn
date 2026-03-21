@@ -1,0 +1,43 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pavasovic-Gambit"]
+[Black "Pseudo-Französich"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "26"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} Nf6 {
+Das ist der stärkste Gegenzug von Schwarz.} 3. e5 {Analog der
+Alekhine-Verteidigung lockt Schwarz den Bauern nach e5, um ihn zu schwächen
+und das starke Feld d5 zu besetzen. Er wird den Bauern mit Sb8-c6 und d7-d6
+weiter unter Druck setzen und angreifen. Anders als in der
+Alekhine-Verteidigung kann Weiß nicht gut c3-c4 spielen, denn das wäre ein
+ernsthafter Tempoverlust.} Nd5 {Der Springer kann hier nicht so schnell
+vertrieben werden. Er darf aber auch nicht einfach so toleriert werden.} 4. d4
+{Weiß muss versuchen die Stellung zu öffnen, um den starken Springer auf d5
+zu unterminieren und um sein Zentrum zu stärken.} cxd4 5. cxd4 d6 6. Nf3 Nc6
+7. Bc4 Nb6 ({Zu einer Stabilisierung des weißen Zentrums führt} 7... dxe5 8.
+Bxd5 Qxd5 9. Nc3 Qd6 10. d5 Nd4 11. Nxd4) 8. Bb3 {Die Pseudo-Französische
+Verteidigung in diesem System wird angestrebt mit} d5 {Jetzt muss sich Weiß
+eigentlich nur einen Zug merken, mit dem er die Läuferentwicklung nach f5
+oder nach g4 verhindert.} 9. Nh4 $1 {Nach} e6 10. Nf3 {[%csl Ya4,Yb6,Yc3,Yc4]
+[%cal Rb3a4,Rb3c4,Gb1c3] haben beide Seiten nun ein Tempo verloren (Weiß mit
+Sf3-h4-f3, Schwarz mit d7-d6-d5). Dafür ist der schwarze Damenläufer
+eingeklemmt. Die weiße Stellung ist etwas besser. Der schwarze Springer auf
+b6 steht eigentlich schlecht und gehört nach f5. Dafür kann Weiß seinen
+Springer sofort nach c3 spielen, denn Schwarz hat "zu früh" im
+Vorstoß-Franzosen auf d4 getauscht.} Be7 11. O-O Bd7 12. Nc3 Rc8 (12... a6 13.
+g3 Nc4 14. h4 $1 b5 15. Ne2 {wie in einer Partie von Atalik gegen Skripchenko.}
+f6 16. exf6 Bxf6 17. Nf4 O-O 18. Bc2 Nd6 19. Re1 Re8 20. Ne5 {Und die weißen
+Figuren sehen sehr bedrohlich aus.}) 13. Bc2 a6 {Die weißen Figuren stehen
+ideal für einen Königsflügel-Angriff. Schwarz muss irgendetwas auf dem
+Damenflügel probieren.} *
+

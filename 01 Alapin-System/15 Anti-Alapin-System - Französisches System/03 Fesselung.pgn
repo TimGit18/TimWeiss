@@ -1,0 +1,38 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Französisches Anti-Alapin"]
+[Black "Fesselung"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "29"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das Französische Anti-Alapin-System entsteht nach} e6 3. d4
+d5 {Schwarz sollte hier nicht zu früh auf d4 schlagen, denn es würde das
+Feld c3 für den Springer räumen.} ({Würde Schwarz} 3... cxd4 4. cxd4 d5 {
+spielen, dann erhielte Weiß nach} 5. e5 {[%csl Yc3][%cal Gb1c3] eine sehr
+gute Version der Französischen Vorstoßvariante, denn Schwarz hat übermütig
+getauscht und der weiße Damenspringer kann jetzt nach c3.}) 4. exd5 {[%cal
+Gd8d5]} exd5 {Diese Stellung kann in eine Französische Tarrasch-Position
+transponiert werden.} (4... Qxd5 {würde wieder in die Klassischen Systeme des
+Alapin-Systems münden.}) 5. Nf3 {[%csl Yd4][%cal Gf3d4] Das ist hier am
+besten, denn Weiß will am Ende eines Massentausches einen Springer auf d4
+behalten.} Nc6 {Das ist der gebräuchlichste Zug, doch Schwarz hat auch
+Alternativen.} 6. Bb5 {Der Zug entwickelt den Läufer, bereitet die kurze
+Rochade vor und nimmt etwas den Druck von d4.} Bd6 {Weiß sollte auf diesen
+Zug warten, bevor er auf c5 schlägt.} 7. O-O {Eine unschöne Fesselung
+entsteht nach} Nf6 8. dxc5 Bxc5 9. Bg5 $1 Be6 {[%csl Yb3,Yc5,Yd2][%cal Gb1d2,
+Gd2b3,Rb3c5] Schwarz schützt seinen Isolierten Damenbauern. Weiß kann nun
+wieder den Plan mit Sd2-b3 ausführen.} ({Falls} 9... O-O {, so kann Weiß
+risikolos den Bauern schlagen} 10. Bxf6 Qxf6 11. Qxd5 Bb6 12. Qg5 Qxg5 13. Nxg5
+Rd8 14. Na3) 10. Nbd2 h6 11. Bh4 O-O 12. Nb3 Bb6 13. Nbd4 Rc8 14. Re1 Bg4 15.
+Qd2 {Mit einem kleinen, aber soliden Vorteil.} *
+

@@ -1,0 +1,43 @@
+[Event "The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Alapin-Gambit"]
+[Black "Zwischenschach-Variante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "21"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält zwar einen
+isolierten Damenbauern, der mit Sb8-c6 und Lc8-g4 (nach Deckung von Sg1-f3)
+angegriffen werden kann. Dafür erhält er Raum im Zentrum und eine bequeme
+Kontrolle über die Zentrumsfelder e5 und c5. Das ist die aggressivste
+schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß
+erhält einen isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden
+kann.} 3. exd5 {Weiß muss im Zentrum schlagen, um das starke schwarze
+Bauernzentrum zu zerstören. Er lockt eine schwarze Figur (meistens die Dame)
+in das Zentrum, die dann von den weißen Leichtfiguren angegriffen werden kann.
+} Nf6 {Dieser Zug ist ein interessantes Anti-Alapin-Gambit. Der Zug wird von
+Evgeny Sveshnikov - obwohl selbst angewandt - kaum erwähnt. Auch John Emms
+gibt nur eine Variante an. Tatsächlich ist Schwarz bereit, einen Bauern im
+Zentrum für offene Linien, Gegenspiel und schnelle Entwicklung zu opfern.
+Weiß sollte in diesem Fall nicht auf Bauerngewinn spielen, sondern versuchen,
+sich schnell zu entwickeln und die Felder im Zentrum unter Kontrolle zu halten.
+Das ist der konsistente Zug von Weiß. Er besetzt das Zentrum, öffnet Linie
+und greift den Bauern auf c5 an.} 4. d4 {Nach der von Emms angegebenen Variante
+} cxd4 {folgt das störende Zwischenschach} 5. Bb5+ $1 {Es kann folgen} Bd7 ({
+Schwarz kann auch probieren} 5... Nbd7 {, was eine Idee von Nemet ist.} 6. Qxd4
+g6 7. d6 $5 {ist eine effektive Art, den Bauern zurückzugeben und sieht
+vielversprechend aus für Weiß.} exd6 8. Nf3 {Fehlerhaft ist nun} Qe7+ $2 9.
+Kd1 a6 10. Re1 {mit einem entscheidenden Vorteil für Weiß nach nur zehn
+Zügen.}) 6. Bc4 {Dieser Rückzug ist wohltemperiert. Weiß deckt den Bauern
+und vermeidet Abtäusche, wonach sich nur Schwarz entwickeln würde.} b5 (6...
+dxc3 7. Nxc3 {sieht tatsächlich sehr angenehm aus für Weiß, was auch Daniel
+King zugibt.}) 7. Bb3 dxc3 8. Nxc3 g6 9. Nf3 Bg7 10. O-O O-O 11. Re1 {Weiß
+hat eine angenehmene Stellung, daher ist diese Variante für Schwarz nicht zu
+empfehlen.} *
+

@@ -1,0 +1,31 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pirc-Anti-Alapin"]
+[Black "Solider Zug"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "43"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das Pirc-Anti-Alapin startet mit} d6 3. d4 Nf6 $1 {Schwarz
+wartet mit dem Schlagen auf d4 bis Weiß den Läufer nach d3 bringt, um den
+Bauern e4 zu verteidigen.} ({Eine bedeutende Anzahl von Partien beginnt mit
+der Zugumstellung} 3... cxd4 4. cxd4 Nf6 5. Nc3 g6) 4. Bd3 $1 {Das Zentrum zu
+halten ist viel besser als den Bauern auf c5 zu nehmen.} {Der solide Zug ist}
+e5 5. Nf3 Nc6 6. d5 Ne7 {Schwarz hat die Idee, einen Königsindisch-Aufbau mit
+dem Königsfianchetto zu wählen.} 7. Bg5 $1 {Das ist die herausfordernste
+Antwort, um die schwarzen Pläne zu durchkreuzen. Und nach} Ng6 8. Bb5+ Bd7 9.
+Bxf6 gxf6 10. a4 {Weiß hat gute Chancen, einen Vorteil zu erreichen aufgrund
+der schwarzen Schwächen auf dem Königsflügel. Ein Tausch der weißfeldrigen
+Läufer hilft hier nicht, zum Beispiel} a6 11. Bxd7+ Qxd7 12. Nbd2 f5 13. Qc2
+fxe4 14. Nxe4 Be7 15. Ng3 Nf4 16. O-O Nxd5 17. Rad1 Qe6 18. Nf5 Rg8 19. Qe4 Nf6
+20. Qxb7 Rd8 21. Nxe7 Qxe7 22. Qxa6 *
+

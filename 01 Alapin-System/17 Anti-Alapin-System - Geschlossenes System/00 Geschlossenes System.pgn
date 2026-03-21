@@ -1,0 +1,14 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Alapin-System"]
+[Black "Geschlossenes System"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "19"]
+[SourceVersionDate "2021.09.13"]
+
+{[%evp 0,19,34,13,72,4,59,43,59,46,73,49,24,29,47,29,17,-1,15,17,21,22]} 1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit entgegenzusetzen. Das geschlossene Anti-Alapin schließt das Zentrum gegen den Öffnungszug d2-d4 ab.} e5 3. Nf3 Nc6 4. Bc4 {Mit den schwarzen Bauern auf e5 und c5 liegt der Läuferzug nach c4 nahe. Denn auf d5 ist ein riesiges Loch.} Be7 $1 {Schwarz bereitet die Springerentwicklung nach f6 vor, ohne durch Sf3-g5 belästigt zu werden.} ({(a) Der gebräuchlichste Zug ist} 4... Qc7 {[%csl Yd8,Yf7,Yg5][%cal Gf3g5,Rg5f7,Rc4f7,Gc6d8,Gd8f7] Der Zug hat zwei Motive. Erstens wird die Öffnung des Zentrums mit d2-d4 verhindert, denn der Läufer hinge dann auf c4. Zweitens möchte Schwarz den Angriff auf f7 mit dem Rückzug Sc6-d8 beantworten. Am besten ist wohl jetzt} 5. O-O Nf6 6. Ng5 Nd8 7. f4 h6 8. Nf3 exf4 9. e5 {mit einer Art Königsgambit.}) ({(b) Die Kritische Fortsetzung lautet} 4... Nf6 5. Ng5 {wie im Zweispringerspiel, allerdings führen die vorgerückten c-Bauern zu einigen Unterschieden.} d5 6. exd5 Nxd5 $1 7. Qh5 {mit einer Variante des Fried Liver Attacks.}) 5. d4 {Jetzt ist es endlich Zeit diesen Vorstoß zu spielen.} cxd4 {Schwarz kann sich ein passives Abwarten erst gar nicht erlauben.} ({Schwarz sollte} 5... d6 $2 6. dxe5 dxe5 7. Qb3 $1 {vermeiden.}) 6. cxd4 exd4 7. O-O {Alternativ kann Weiß auch direkt auf d4 schlagen. Oft transponiert das Spiel dann in die Hauptvariante.} Nf6 (7... Qb6 {hält den Bauern fest, vernachlässigt aber die Entwicklung auf dem Königsflügel.} 8. e5 $1) 8. e5 Ne4 9. Bd5 Nc5 10. Nxd4 {Weiß erhält schönen Entwicklungsvorsprung.} *
+

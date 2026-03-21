@@ -1,0 +1,14 @@
+[Event "Power Play 21: Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-IDB-System"]
+[Black "Anti-Alapin-Gambit"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Daniel King"]
+[PlyCount "17"]
+[EventDate "2010.04.02"]
+
+{[%evp 0,17,31,21,75,5,6,6,38,-15,20,10,12,-28,13,16,39,33,26,18]} 1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält zwar einen isolierten Damenbauern, der mit Sb8-c6 und Lc8-g4 (nach Deckung von Sg1-f3) angegriffen werden kann. Dafür erhält er Raum im Zentrum und eine bequeme Kontrolle über die Zentrumsfelder e5 und c5. Das ist die aggressivste schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält einen isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden kann.} 3. exd5 {Weiß muss im Zentrum schlagen, um das starke schwarze Bauernzentrum zu zerstören. Er lockt eine schwarze Figur (meistens die Dame) in das Zentrum, die dann von den weißen Leichtfiguren angegriffen werden kann.} Nf6 {Dieser Zug ist ein interessantes Anti-Alapin-Gambit. Der Zug wird von Evgeny Sveshnikov - obwohl selbst angewandt - kaum erwähnt. Auch John Emms gibt nur eine Variante an. Tatsächlich ist Schwarz bereit, einen Bauern im Zentrum für offene Linien, Gegenspiel und schnelle Entwicklung zu opfern. Weiß sollte in diesem Fall nicht auf Bauerngewinn spielen, sondern versuchen, sich schnell zu entwickeln und die Felder im Zentrum unter Kontrolle zu halten. Das ist der konsistente Zug von Weiß. Er besetzt das Zentrum, öffnet Linie und greift den Bauern auf c5 an.} 4. d4 ({Eine von Sveshnikovs Hauptempfehlungen lautet} 4. Bb5+ {, aber Schwarz erhält hiernach Kompensation.}) 4... Nxd5 $1 {Das ist eine sehr gute Art des Zurücknehmens. Der Springer auf d5 kann nicht so leicht vertrieben werden und nimmt eine dominante Stellung im Zentrum ein.} ({Nach der von Emms angegebenen Variante} 4... cxd4 {folgt das störende Zwischenschach} 5. Bb5+ $1 {Es kann folgen} Bd7 6. Bc4 {Dieser Rückzug ist wohltemperiert. Weiß deckt den Bauern und vermeidet Abtäusche, wonach sich nur Schwarz entwickeln würde.} dxc3 7. Nxc3 {does indeed look pleasant for White.}) 5. Nf3 e6 ({Eine Art Fianchetto-Variante entsteht nach} 5... cxd4 6. cxd4 g6 {Diese Variante hat eine gesunde Reputation aus schwarzer Sicht.} 7. Nc3 Bg7 8. Bc4 {ist die Hauptvariante.} Nb6 9. Bb3 O-O) 6. Bd3 cxd4 $1 ({Die Verzögerte IDB-Variante entsteht nach} 6... Nc6 7. O-O Be7 8. Re1 O-O 9. a3 cxd4 10. cxd4 Bf6 11. Nc3 {Diese Variante ist total spielbar für Schwarz.}) 7. cxd4 Bb4+ {Dieser Zug kennzeichnet die Hauptvariante im Anti-Alapin-Gambit. Weiß muss hier mit dem Läufer das Schach abwehren, den Schwarz daraufhin abtauschen kann.} 8. Bd2 (8. Nbd2 $6 {wäre sehr ärgerlich nach} Nf4) 8... Bxd2+ 9. Qxd2 *
+

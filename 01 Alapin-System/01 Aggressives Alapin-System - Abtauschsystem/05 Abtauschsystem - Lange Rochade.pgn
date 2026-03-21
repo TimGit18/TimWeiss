@@ -1,0 +1,47 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abtauschsystem"]
+[Black "Lange Rochade"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "37"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält einen
+isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden kann.} 3. exd5
+Qxd5 4. d4 cxd4 {Das direkte Schlagen ist eine gebräuchliche Reaktion im
+Alapin-Sizilianisch. Es ist verlockend, den d4-Bauern sofort zu isolieren und
+dann von allen Seiten zu attackieren. Andererseits wird das Feld c3 sofort
+für den weißen Damenspringer zugänglich. Weiß gewinnt etwas Zeit mit dem
+Angriff auf die schwarze Dame.} 5. cxd4 Nc6 6. Nf3 Bg4 {[%csl Rd4,Yf3] Nach
+diesen logischen Zügen hat Schwarz einigen Druck gegen den weißen d-Bauern
+aufgebaut. Weiß muss etwas unternehmen.} 7. Nc3 $1 {Weiß muss den Bauern d4
+nicht mehr verteidigen, sondern geht sofort zum Gegenangriff über.} Bxf3 {
+Damit wird eine forcierte Variante eingeschlagen. Damenrückzüge gelten hier
+als schwächer.} 8. gxf3 $1 Qxd4 9. Qxd4 Nxd4 {[%csl Yc2,Yf3] In dieser
+Stellung hat Schwarz einen Mehrbauern und droht mit Sc2+ und Sxf3+. Doch seine
+unsichere Königsstellung und sein Entwicklungrückstand sprechen für Weiß.}
+10. Nb5 $1 {Die weißen Figuren sind freier und das weiße Läuferpaar in der
+offenen Stellung leicht zu aktivieren. Schwarz hat Probleme bei der
+Entwicklung seines Königsflügels.} O-O-O {Schwarz verhindert die Gabel,
+entwickelt sich und deckt den Springer d4} 11. Nxd4 {Die beste Figur von
+Schwarz muss natürlich abgetauscht werden} Rxd4 12. Be3 {Die weißen Figuren
+werden sofort aktiv und drücken auf den schwarzen Damenflügel. Der schwarze
+König steht gefährdet.} Rd7 ({Sveshnikov untersucht noch} 12... Rd6 13. Bxa7
+Nf6 14. Rc1+ Rc6 15. Rxc6+ bxc6 16. Rg1 {mit weißem Vorteil}) 13. Bb5 {
+[%csl Ya6,Ra7,Yb5,Rb6,Rc5,Yc6,Rd4,Yd7]} Rc7 14. Bxa7 {Das Material ist wieder
+augeglichen. Aber die weißen Figuren sind aktiver.} e6 {[%csl Rb4] Schwarz
+droht mit Lb4+} ({Scveshnikov betrachtet auch} 14... e5 15. Bb6 Bb4+ (15... Rc2
+16. O-O Ne7 17. Rac1 Rxc1 18. Rxc1+ Nc6 19. a4) 16. Kd1 {mit weißem Vorteil})
+15. Bb6 Rc2 {[%csl Rb2]} 16. O-O Ne7 ({Der scheinaktive Turmzug} 16... Rxb2 {
+geht aus taktischen Gründen nicht} 17. Rfd1 {mit Mattdrohung auf d8} Be7 18.
+Bd7+ Kb8 19. Bd4 {[%csl Rb2,Rg7] Der Doppelangriff auf b2 und g7 kostet
+Material}) 17. Rac1 Rxc1 18. Rxc1+ Nc6 19. a4 {Dank Läuferpaar und
+Damenflügelmehrheit ist Weiß im Vorteil und gewann in Rohde,M (2550)-Seltzer,
+R (2320) Los Angeles 1991} *
+

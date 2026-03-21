@@ -1,0 +1,37 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alternatives Anti-Alapin"]
+[Black "Königsfianchetto"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "26"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das Königsfianchetto-Anti-Alapin ist das wichtigste
+Alternative Anti-Alapin-System und beginnt mit} g6 3. d4 cxd4 ({Nach} 3... Bg7
+4. dxc5 Qc7 5. Be3 $1 {hat Schwarz Schwierigkeiten, den Bauern
+zurückzuerobern.}) 4. cxd4 d5 $1 {Das ist die ganze Idee des schwarzen Plans.
+Er zwingt Weiß dazu, eine Entscheidung im Zentrum zu fällen.} ({Zu einer
+vorteilhaften Variante des Pirc-Anti-Alapin führt} 4... Bg7 5. Nc3 {, denn
+der weiße Königsläufer steht noch nicht auf d3.}) 5. e5 {Weiß blockiert
+das Zentrum und erhält Raumvorteil. Zu einem späteren Zeitpunkt wird Schwarz
+ohnehin mit f7-f6 das weiße Zentrum anknabbern.} Nc6 6. Nc3 $1 {Weiß will
+unbedingt die Entwicklung des schwarzen Damenläufers verhindern.} Bg7 7. Bb5
+Nh6 ({Die Sofortige Befragung} 7... f6 {ist auch möglich} 8. exf6 exf6 9. Nge2
+Be6 10. O-O Nge7 11. Nf4 Bf7) 8. h3 {[%csl Ye3,Yf3][%cal Gg1f3,Gc1e3] Jetzt
+kann Weiß Sg1-f3 spielen, da die Fesselung unterbunden wird. Außerdem kann
+der Damenläufer nach e3 entwickelt werden, da er nicht von einem Springer auf
+g4 angegriffen werden kann.} O-O 9. Nf3 f6 10. O-O Nf7 (10... fxe5 11. dxe5 e6
+12. Re1 Qc7 13. Be3 Nf7 14. Bxc6 Qxc6 15. Rc1 Qa6) 11. exf6 exf6 12. Re1 {
+Das ist die Ausgangsstellung des Königsfianchetto-Anti-Alapin. Schwarz ist
+nahe am Ausgleich, aber die weiße Stellung ist aktiver und einfacher zu
+spielen. Lc8-e6 ist verhindert.} Qd6 13. Qb3 Rd8 *
+

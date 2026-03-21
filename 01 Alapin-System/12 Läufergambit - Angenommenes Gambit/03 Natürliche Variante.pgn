@@ -1,0 +1,65 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Läufergambit"]
+[Black "Natürliche Variante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "63"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. (a) Die wichtigste Alternative bildet das Moderne System,
+das ebenfalls einen Gegenangriff gegen den Bauern e4 darstellt.} Nf6 {[%csl
+Ye4][%cal Rf6e4] Der weiße e-Bauer kann nicht gut verteidigt werden.} 3. e5 {
+Der Vorstoß des e-Bauern bildet die beste weiße Fortsetzung. Weiß erobert
+Raum im Zentrum, und seine Figuren können sich hinter dem Bauern, der früher
+oder später mit d7-d6 angegriffen wird, frei entwickeln.} Nd5 {[%csl Yc4,Yd4]
+[%cal Gd2d4,Gf1c4,Gc4d5] Ähnlich wie in der Alekhine-Verteidigung findet
+Schwarz ein gutes Zentralfeld für den Springer. Weiß muss diesen mit Tempo
+vertreiben und parallel dazu ein gutes Bauernzentrum aufbauern.} 4. d4 cxd4 {
+Eine valide Alternative stellt das Läufergambit mit} 5. Nf3 Nc6 {dar. Weiß
+opfert einen Bauern für Entwicklungsvorsprung. Anders als im Pavasovic-Gambit
+schlägt Weiß nicht auf d4, weil der Bauer erstens sowieso nicht auf c3
+schlagen kann und zweitens Weiß Zeit spart, um seine Figuren schnell zu
+entwickeln.} ({(a) Der Zug} 5... e6 {stellt eine Transposition in das
+Anti-Pavasovic-Gambit dar.}) ({(b) Der Zug} 5... d6 {kann nach Zurückschlagen
+in eine Transposition in das Pavasovic-Gambit münden oder auch nicht nach} 6.
+Bc4 Nb6 7. Bb3 Nc6 8. exd6) 6. Bc4 {[%csl Yd5][%cal Gc4d5] Weiß greift sofort
+an und bereitet die kurze Rochade vor.} Nb6 {Durch den Rückzug und
+gleichzeitigen Angriff auf den Läufer gewinnt Schwarz Zeit.} 7. Bb3 d6 {
+Die Hauptfortsetzung lautet eigentlich d7-d5, aber nach Schlagen en passent
+ergibt sich dieselbe Stellung.} 8. exd6 ({Die Alternative} 8. cxd4 dxe5 (8...
+Bg4 {ist besser, denn Schwarz erreicht eine günstige Französisch-Stellung.})
+9. d5 {würde wieder in das Pavasovic-Gambit münden.}) 8... Qxd6 $1 {Das ist
+der beste Zug von Schwarz in dieser Stellung. Er vermeidet das gierige
+Schlagen auf c3 und entwickelt seine Dame auf ein gutes zentrales Feld.} 9. O-O
+$1 {Weiß hält an seinem Gambit-Angebot fest. Natürlich könnte er auch den
+Bauern auf d4 schlagen, aber Schwarz entwickelt seinen Damenläufer nach e6
+und reduziert das weiße Angriffspotential.} Be6 $1 {Nur dieser Zug macht die
+gesamte Variante spielbar für Schwarz. Er möchte den mächtigen
+Königsläufer von Weiß abtauschen.} 10. Na3 $1 {[%csl Yb5,Yd6][%cal Ga3b5,
+Gb5d6] Dieser Zug, der den Angriff auf die Dame über b5 vorbereitet, ist der
+gefährlichste Zug für Schwarz} dxc3 $1 {Die Annahme des Läufergambits ist
+der kritische Test für die gesamte Variante. Andere Züge bieten Weiß die
+Möglichkeit auf Vorteil.} 11. Qe2 $1 {Der Zug vermeidet den Damentausch.
+Andere Züge bieten Weiß geringere Erfolgsaussichten. Er bietet einen zweiten
+Bauern an, den Schwarz aber nicht nehmen kann.} Bxb3 12. Nb5 $1 {Ein vitaler
+Zwischenzug.} Qb8 13. axb3 {Der weiße Entwicklungsvorsprung und die aktiven
+Figuren geben Kompensation für den Bauern, allerdings hat Schwarz keine
+Schwächen in der Stellung.} e5 {Schwarz muss sich früher oder später
+entwickeln. Und dieser Zug ist sehr verbreitet.} 14. Nbd4 $1 {Das ist der
+gefährlichste Zug für Schwarz. Der Bauer e5 ist bedroht.} {Die Natürliche
+Variante lautet} Bd6 15. bxc3 O-O ({Für} 15... f6 {war es nicht zu spät}) 16.
+Nf5 {Der Springer hat das Ziel seiner Wanderung über b5 erreicht.} Re8 17. Ng5
+f6 18. Nxh7 Kxh7 19. Qh5+ Kg8 20. Nh6+ gxh6 21. Qg6+ Kf8 22. Qxf6+ Kg8 23. Qg6+
+Kh8 24. Qxh6+ Kg8 25. Qg6+ Kh8 26. Rd1 Qc7 (26... Bf8 27. Rd3) 27. Bg5 Bf8 28.
+Rd3 Bg7 29. Rh3+ Kg8 30. Qh7+ Kf8 31. Rf3+ Qf7 32. Bh6 {1-0 (32) Ragger,M 
+(2528)-Jones,R (2327) Heraklion 2007} *
+

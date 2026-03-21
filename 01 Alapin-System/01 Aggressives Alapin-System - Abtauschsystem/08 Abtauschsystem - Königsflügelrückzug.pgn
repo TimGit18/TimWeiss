@@ -1,0 +1,41 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abtauschsystem"]
+[Black "Königsflügelrückzug"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "37"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält einen
+isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden kann.} 3. exd5
+Qxd5 4. d4 cxd4 {Das direkte Schlagen ist eine gebräuchliche Reaktion im
+Alapin-Sizilianisch. Es ist verlockend, den d4-Bauern sofort zu isolieren und
+dann von allen Seiten zu attackieren. Andererseits wird das Feld c3 sofort
+für den weißen Damenspringer zugänglich. Weiß gewinnt etwas Zeit mit dem
+Angriff auf die schwarze Dame.} 5. cxd4 Nc6 6. Nf3 Bg4 {[%csl Rd4,Yf3] Nach
+diesen logischen Zügen hat Schwarz einigen Druck gegen den weißen d-Bauern
+aufgebaut. Weiß muss etwas unternehmen.} 7. Nc3 $1 {Weiß muss den Bauern d4
+nicht mehr verteidigen, sondern geht sofort zum Gegenangriff über.} Qh5 {
+Das Problem bei diesen Damenzügen ist immer, dass Weiß mit dem folgenden
+Vorstoß die Initiative erlangen kann} 8. d5 $1 {Dieser thematische Zug geht
+gegen alle schwarzen Damenzüge} O-O-O (8... Ne5 9. Bb5+ $1 {befreit die
+weiße Stellung} Bd7 10. Bxd7+ Nxd7 11. O-O {Schwarz hat immer noch große
+Probleme mit seinem König. Außerdem ist der Königsflügel unterentwickelt})
+9. Bd2 $1 Ne5 (9... Bxf3 10. Qxf3 Qxf3 11. gxf3 Nd4 12. Bh3+ e6 13. O-O-O {
+Der Bauer e6 ist sehr schwach und Schwarz in der Entwicklung zurück}) 10. Rc1
+$1 {Der weiße Angriff scheint gefährlicher als der schwarze zu sein} Nxf3+ ({
+(a)} 10... Bxf3 11. Ne4+ $1 Nc6 ({Auf} 11... Kb8 {verliert} 12. Qc2) 12. Rxc6+
+bxc6 13. Ba6+ Kd7 14. dxc6+ Kc7 {Weiß droht mit La5 und der schwarze König
+steht um den Preis der Qualität immer noch sehr schlecht} 15. gxf3) ({(b)} 
+10... Kb8 11. Bf4) 11. gxf3 Bxf3 12. Nb5+ {Der schwarze König wird in die
+Ecke gedrängt, aus der es kein Entkommen gibt} Kb8 ({Auf} 12... Kd7 {folgt}
+13. Rc7+ Ke8 14. Qa4 {mit baldigem Matt} Rxd5 15. Nd6+ Kd8 16. Qd7#) 13. Bf4+
+Ka8 14. Qa4 {[%csl Ra7]} a6 15. Nc7+ Ka7 16. Be3+ Kb8 17. Nxa6+ bxa6 18. Qxa6
+Rd7 19. Rc8# *
+

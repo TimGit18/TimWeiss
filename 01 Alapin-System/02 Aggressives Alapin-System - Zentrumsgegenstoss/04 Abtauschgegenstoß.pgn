@@ -1,0 +1,43 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zentrumsgegenstoß"]
+[Black "Abtauschgegenstoß"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "17"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} d5 {
+Das ist die aggressivste schwarze Antwort. Der Zug zwingt Weiß sofort, sich
+zu entscheiden. Er ist dadurch gerechtfertigt, dass Schwarz sofort seinen
+Anspruch auf das Zentrum geltend macht und die schwarze Dame nicht auf d5
+durch den weißen Damenspringer angegriffen werden kann. Weiß erhält in der
+Folge einen isolierten Damenbauern auf d4, der mit Dame, Damenspringer und
+Damenläufer angegriffen werden kann. Das ist die aggressivste schwarze
+Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält einen
+isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden kann.} 3. exd5 {
+Weiß muss und will diesen Bauern schlagen. Er lockt die schwarze Dame in das
+Zentrum. Hier steht sie sehr aktiv, ist aber auch angreifbar.} Qxd5 {Für den
+Augenblick macht die schwarze Stellung einen guten Eindruck. Die schwarze Dame
+kontrolliert die Zentralfelder und der Bauer auf c5 reduziert das weiße
+Bauernzentrum auf d4.} 4. d4 {Dieser Zug ist der programmatische Vorstoß,
+denn Weiß erobert sich auf Kosten eines isolierten Damenbauern Raum und und
+öffnet Linien und Diagonalen für seine Figuren.} {Der Abtauschgegenstoß
+beginnt eben mit dem Abtausch auf d4:} cxd4 5. cxd4 e5 {Weiß kann hier nehmen
+oder die Spannung aufrechterhalten mit} 6. Nf3 {Am besten transponiert Schwarz
+in die Hauptvariante, denn Alternativen sind schwächer} exd4 ({(a) Der beste
+Zug} 6... Nc6 {transponiert in die Hauptvariante.}) ({(b)} 6... e4 7. Nc3 Bb4
+8. Ne5 {[%csl Yc4][%cal Gf1c4] mit der Absicht Lf1-c4 sieht für Weiß besser
+aus.}) {Die weißen Ergebnisse sind besser nach} 7. Qxd4 Qxd4 (7... Nf6 8. Nc3
+Qxd4 9. Nxd4 {macht keinen großen Unterschied.}) 8. Nxd4 {mit der Absicht
+Sd4-b5 ist ärgerlich, was Schwarz verhindert mit} a6 {, aber nach} 9. Nc3 {
+hat Weiß in einer offenen Stellung Entwicklungsvorsprung, was ihm in diesem
+damenlosen Mittelspiel einen leichten Vorteil gibt.} *
+

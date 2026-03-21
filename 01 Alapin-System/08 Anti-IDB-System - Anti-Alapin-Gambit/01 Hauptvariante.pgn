@@ -1,0 +1,47 @@
+[Event "Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Alapin-Gambit"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Daniel King"]
+[PlyCount "43"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält zwar einen
+isolierten Damenbauern, der mit Sb8-c6 und Lc8-g4 (nach Deckung von Sg1-f3)
+angegriffen werden kann. Dafür erhält er Raum im Zentrum und eine bequeme
+Kontrolle über die Zentrumsfelder e5 und c5. Das ist die aggressivste
+schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß
+erhält einen isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden
+kann.} 3. exd5 {Weiß muss im Zentrum schlagen, um das starke schwarze
+Bauernzentrum zu zerstören. Er lockt eine schwarze Figur (meistens die Dame)
+in das Zentrum, die dann von den weißen Leichtfiguren angegriffen werden kann.
+} Nf6 {Dieser Zug ist ein interessantes Anti-Alapin-Gambit. Der Zug wird von
+Evgeny Sveshnikov - obwohl selbst angewandt - kaum erwähnt. Auch John Emms
+gibt nur eine Variante an. Tatsächlich ist Schwarz bereit, einen Bauern im
+Zentrum für offene Linien, Gegenspiel und schnelle Entwicklung zu opfern.
+Weiß sollte in diesem Fall nicht auf Bauerngewinn spielen, sondern versuchen,
+sich schnell zu entwickeln und die Felder im Zentrum unter Kontrolle zu halten.
+Das ist der konsistente Zug von Weiß. Er besetzt das Zentrum, öffnet Linie
+und greift den Bauern auf c5 an.} 4. d4 Nxd5 $1 {Das ist eine sehr gute Art
+des Zurücknehmens. Der Springer auf d5 kann nicht so leicht vertrieben werden
+und nimmt eine dominante Stellung im Zentrum ein.} 5. Nf3 e6 6. Bd3 cxd4 $1 7.
+cxd4 Bb4+ {Dieser Zug kennzeichnet die Hauptvariante im Anti-Alapin-Gambit.
+Weiß muss hier mit dem Läufer das Schach abwehren, den Schwarz daraufhin
+abtauschen kann.} 8. Bd2 (8. Nbd2 $6 {wäre sehr ärgerlich nach} Nf4) 8...
+Bxd2+ {Nur zu gerne tauscht Schwarz die Läufer ab, denn jeder Abtausch
+reduziert das Angriffsmaterial und hilft der Seite, die gegen den Isolani
+spielt.} 9. Qxd2 O-O 10. O-O Nc6 11. Nc3 {Die bisherigen Züge sahen sehr
+plausibel ist.} Nce7 ({Ebenso gut ist} 11... Ncb4 12. Bb1 Nf6 13. a3 Nbd5) 12.
+Rae1 {Weiß bringt eine Schwerfigur in das Zentrum und räumt b1 als
+Rückzugsfeld für den Läufer, der nicht dem eigenen Turm im Weg stehen soll.}
+({Es geht auch} 12. Ne4 {, um weitere Abtäusche zu vermeiden, aber der
+Springer hat kein richtiges Ziel.}) 12... b6 13. Nxd5 Nxd5 14. Re4 Bb7 15. Rh4
+h6 16. Rxh6 gxh6 17. Qxh6 f5 18. Qg6+ Kh8 19. Qh6+ Kg8 20. Qg6+ Kh8 21. Qh6+
+Kg8 22. Qg6+ {Es folgt ein Remis nach dreimaliger Stellungswiederholung.} *
+

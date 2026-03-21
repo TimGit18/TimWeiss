@@ -1,0 +1,39 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Geschlossenes Anti-Alapin"]
+[Black "Bauernhalten"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "28"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das geschlossene Anti-Alapin schließt das Zentrum gegen den
+Öffnungszug d2-d4 ab.} e5 3. Nf3 Nc6 4. Bc4 {Mit den schwarzen Bauern auf e5
+und c5 liegt der Läuferzug nach c4 nahe. Denn auf d5 ist ein riesiges Loch.}
+Be7 $1 {Schwarz bereitet die Springerentwicklung nach f6 vor, ohne durch
+Sf3-g5 belästigt zu werden.} 5. d4 {Jetzt ist es endlich Zeit diesen Vorstoß
+zu spielen.} cxd4 {Schwarz kann sich ein passives Abwarten erst gar nicht
+erlauben.} ({Schwarz sollte} 5... d6 $2 6. dxe5 dxe5 7. Qb3 $1 {vermeiden.}) 6.
+cxd4 exd4 7. O-O {Alternativ kann Weiß auch direkt auf d4 schlagen. Oft
+transponiert das Spiel dann in die Hauptvariante.} Qb6 $6 {hält den Bauern
+fest, vernachlässigt aber die Entwicklung auf dem Königsflügel.} 8. e5 $1 {
+Das ist der gefährlichste Zug, denn Schwarz muss sich schon fragen, wie er
+den Königsspringer entwickeln soll.} d6 $1 {Ein guter Zug, dessen
+Konsequenzen man kennen sollte.} ({(a)} 8... Nh6 9. Bxh6 gxh6 {ist sicher
+nicht wünschenswert.}) ({(b)} 8... Qc5 $2 {ist ein Fehler mit katastrophalen
+Folgen.} 9. Qb3 {Offensichtlich und stark. Weiß hat schon fast eine
+Gewinnstellung.} Nxe5 10. Nxe5 Qxe5 11. Bxf7+ Kf8 12. Nd2 {Die weiße Stellung
+ist so einfach zu spielen. Seine Figuren entwickeln sich aktiv und seine
+Türme werden bald die offenen Linien besetzen.}) 9. exd6 Bxd6 10. Re1+ Nge7
+11. Ng5 O-O (11... Ne5 12. Rxe5 Bxe5 13. Nxf7 Qc7 14. Qh5 {sieht
+vielversprechend für Weiß aus.}) 12. Qh5 Bf5 13. Bxf7+ Kh8 14. g4 Bc2 {
+ist zwar prekär für Schwarz, aber er hat noch Überlebenschancen.} *
+

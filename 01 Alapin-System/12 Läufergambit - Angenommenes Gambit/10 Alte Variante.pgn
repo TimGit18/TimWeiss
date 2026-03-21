@@ -1,0 +1,51 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Läufergambit"]
+[Black "Alte Variante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "31"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. (a) Die wichtigste Alternative bildet das Moderne System,
+das ebenfalls einen Gegenangriff gegen den Bauern e4 darstellt.} Nf6 {[%csl
+Ye4][%cal Rf6e4] Der weiße e-Bauer kann nicht gut verteidigt werden.} 3. e5 {
+Der Vorstoß des e-Bauern bildet die beste weiße Fortsetzung. Weiß erobert
+Raum im Zentrum, und seine Figuren können sich hinter dem Bauern, der früher
+oder später mit d7-d6 angegriffen wird, frei entwickeln.} Nd5 {[%csl Yc4,Yd4]
+[%cal Gd2d4,Gf1c4,Gc4d5] Ähnlich wie in der Alekhine-Verteidigung findet
+Schwarz ein gutes Zentralfeld für den Springer. Weiß muss diesen mit Tempo
+vertreiben und parallel dazu ein gutes Bauernzentrum aufbauern.} 4. d4 cxd4 {
+Eine valide Alternative stellt das Läufergambit mit} 5. Nf3 Nc6 {dar. Weiß
+opfert einen Bauern für Entwicklungsvorsprung. Anders als im Pavasovic-Gambit
+schlägt Weiß nicht auf d4, weil der Bauer erstens sowieso nicht auf c3
+schlagen kann und zweitens Weiß Zeit spart, um seine Figuren schnell zu
+entwickeln.} ({(a) Der Zug} 5... e6 {stellt eine Transposition in das
+Anti-Pavasovic-Gambit dar.}) ({(b) Der Zug} 5... d6 {kann nach Zurückschlagen
+in eine Transposition in das Pavasovic-Gambit münden oder auch nicht nach} 6.
+Bc4 Nb6 7. Bb3 Nc6 8. exd6) 6. Bc4 {[%csl Yd5][%cal Gc4d5] Weiß greift sofort
+an und bereitet die kurze Rochade vor.} Nb6 {Durch den Rückzug und
+gleichzeitigen Angriff auf den Läufer gewinnt Schwarz Zeit.} 7. Bb3 d6 {
+Die Hauptfortsetzung lautet eigentlich d7-d5, aber nach Schlagen en passent
+ergibt sich dieselbe Stellung.} 8. exd6 ({Die Alternative} 8. cxd4 dxe5 (8...
+Bg4 {ist besser, denn Schwarz erreicht eine günstige Französisch-Stellung.})
+9. d5 {würde wieder in das Pavasovic-Gambit münden.}) 8... Qxd6 $1 {Das ist
+der beste Zug von Schwarz in dieser Stellung. Er vermeidet das gierige
+Schlagen auf c3 und entwickelt seine Dame auf ein gutes zentrales Feld.} 9. O-O
+$1 {Weiß hält an seinem Gambit-Angebot fest. Natürlich könnte er auch den
+Bauern auf d4 schlagen, aber Schwarz entwickelt seinen Damenläufer nach e6
+und reduziert das weiße Angriffspotential.} {Früher spielte man auch} Bf5 {
+, aber Weiß kann etwas Vorteil behalten mit} (9... Bg4 {erlaubt natürlich
+immer} 10. Bxf7+ Kxf7 11. Ng5+) 10. Nxd4 $1 Nxd4 11. cxd4 e6 12. Nc3 Be7 13.
+Qf3 O-O (13... Qxd4 {erlaubt} 14. Qxb7) 14. d5 $1 {Zum Beispiel} Qd7 15. Rd1 e5
+16. d6 $1 {Würde der Läufer den Bauern schlagen, so wäre die schwarze Dame 
+(als Deckung der beiden Läufer) überlastet.} *
+

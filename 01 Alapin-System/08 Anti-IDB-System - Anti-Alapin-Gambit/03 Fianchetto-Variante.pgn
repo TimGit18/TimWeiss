@@ -1,0 +1,45 @@
+[Event "Power Play 21: Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Alapin-Gambit"]
+[Black "Fianchetto-Variante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Daniel King"]
+[PlyCount "25"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält zwar einen
+isolierten Damenbauern, der mit Sb8-c6 und Lc8-g4 (nach Deckung von Sg1-f3)
+angegriffen werden kann. Dafür erhält er Raum im Zentrum und eine bequeme
+Kontrolle über die Zentrumsfelder e5 und c5. Das ist die aggressivste
+schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß
+erhält einen isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden
+kann.} 3. exd5 {Weiß muss im Zentrum schlagen, um das starke schwarze
+Bauernzentrum zu zerstören. Er lockt eine schwarze Figur (meistens die Dame)
+in das Zentrum, die dann von den weißen Leichtfiguren angegriffen werden kann.
+} Nf6 {Dieser Zug ist ein interessantes Anti-Alapin-Gambit. Der Zug wird von
+Evgeny Sveshnikov - obwohl selbst angewandt - kaum erwähnt. Auch John Emms
+gibt nur eine Variante an. Tatsächlich ist Schwarz bereit, einen Bauern im
+Zentrum für offene Linien, Gegenspiel und schnelle Entwicklung zu opfern.
+Weiß sollte in diesem Fall nicht auf Bauerngewinn spielen, sondern versuchen,
+sich schnell zu entwickeln und die Felder im Zentrum unter Kontrolle zu halten.
+Das ist der konsistente Zug von Weiß. Er besetzt das Zentrum, öffnet Linie
+und greift den Bauern auf c5 an.} 4. d4 Nxd5 $1 {Das ist eine sehr gute Art
+des Zurücknehmens. Der Springer auf d5 kann nicht so leicht vertrieben werden
+und nimmt eine dominante Stellung im Zentrum ein.} 5. Nf3 {Eine Art
+Fianchetto-Variante entsteht nach} cxd4 6. cxd4 g6 {Diese Variante hat eine
+gesunde Reputation aus schwarzer Sicht.} ({Die Zugumstellung} 6... Nc6 7. Nc3
+Bg4 8. Qb3 {führt sofort in die Vierspringer-Variante des
+Panov-Botvinnik-Angriffs.}) 7. Nc3 Bg7 8. Bc4 {ist die Hauptvariante.} Nxc3 ({
+Der Rückzug} 8... Nb6 9. Bb3 O-O 10. O-O Nc6 {führt ebensfalls in den
+Panov-Botvinnik-Angriff und wird von Mr.Abraham in "I hate The Alapin"
+empfohlen.} 11. d5 Na5 12. Re1 Re8) 9. bxc3 O-O 10. O-O {Die kritische
+Stellung erhält man nach} Qc7 11. Bb3 ({Schlecht punktet} 11. Qb3 Nc6 12. Be2
+Be6 {, obwohl es früher öfter gespielt wurde.}) 11... Qxc3 {Wenn Schwarz
+etwas erreichen will, dann muss er den angebotenen Bauern nehmen.} 12. Bg5 Bg4
+13. Rc1 *
+

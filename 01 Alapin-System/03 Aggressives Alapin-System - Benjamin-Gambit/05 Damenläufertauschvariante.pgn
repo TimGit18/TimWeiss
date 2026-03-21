@@ -1,0 +1,127 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benjamin-Gambit"]
+[Black "Damenläufertauschvariante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "30"]
+[EventDate "2010.04.02"]
+[SourceDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält zwar einen
+isolierten Damenbauern, der mit Sb8-c6 und Lc8-g4 (nach Deckung von Sg1-f3)
+angegriffen werden kann. Dafür erhält er Raum im Zentrum und eine bequeme
+Kontrolle über die Zentrumsfelder e5 und c5. Das ist die aggressivste
+schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß
+erhält einen isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden
+kann.} 3. exd5 {Weiß muss im Zentrum schlagen, um das starke schwarze
+Bauernzentrum zu zerstören. Er lockt eine schwarze Figur (meistens die Dame)
+in das Zentrum, die dann von den weißen Leichtfiguren angegriffen werden kann.
+} Qxd5 {[%csl Yd3,Yd4,Yd5,Ye4,Yf3,Yg2][%cal Rd5g2,Rd5d2] Dieser Zug ist ganz
+im Sinne des schwarzen Plans. Schwarz platziert die Dame auf einem zentralen
+Feld, auf dem sie eine maximale Kontrolle über die weißen Felder im Zentrum
+ausübt. Außerdem kann die schwarze Dame im Moment nicht vertrieben werden
+und übt einen gewissen Druck auf den zu erwartenden Bauernvorstoß d2-d4 aus.
+Schwarz hat jetzt hier die drei grundsätzlichen Pläne zur Auswahl: (1) Er
+setzt wie oben beschrieben das weiße Zentrum mit seinen Figuren unter Druck. 
+(2) Er versucht, dass weiße Zentrum mit dem thematischen Gegenstoß e7-e5
+aufzulösen, was allerdings sehr präzises Spiel erfordert. (3) Er versucht
+das weiße Zentrum direkt aufzulösen und nimmt dabei einen forcierten
+Figurenabtausch in Kauf.} 4. d4 {Weiß besetzt sofort das Zentrum mit seinem
+Damenbauern. Er hat keine Angst vor der Isolierung dieses Bauern, weil sie
+seinen Figuren (den Läufern und dem Damenspringer) gute Felder für die
+beschleunigte Entwicklung gibt.} Nc6 {Schwarz will die Ideen des Druckspiels
+gegen den Bauern d4 mit dem Springerangriff Sb8-c6 und dem frühen
+Läuferausfall Lc8-g4 kombinieren. In diesem Fall stellt der gewählte Zug die
+korrekte Zugreihenfolge dar. Der Grund liegt darin, dass Weiß das Feld c3
+nicht so schnell für seinen Springer erhält und daher die Entwicklung dieser
+Figur hinauszögern muss. Wenn Schwarz die Ideen des Druckspiels gegen den
+Bauern d4 mit Sc6 und Lg4 kombinieren will, so ist diese Zugreihenfolge ohne
+das Schlagen des Bauern d4 die korrekte. Der einzige Nachteil ist, dass Weiß
+versuchen kann, selber auf c5 zu nehmen.} 5. Nf3 {Weiß entwickelt eine Figur
+und deckt den bereits unter Druck stehenden Damenbauern. Der Nachteil dieses
+Zuges ist, dass er die Fesselung Lc8-g4, die normalerweise zum schwarzen
+Programm gehört, zuläßt. Falls Weiß den alternativen Deckungszug Lc1-e3
+spielt, so vermeidet er die Fesselung und droht auch mit dem Bauerngewinn
+d4xc5. Grundsätzlich sollte aber der Springer zuerst gezogen werden, auch
+wenn man dadurch die folgende Fesselung in Kauf nimmt. Natürlich kann Weiß
+an dieser Stelle auch dxc5 spielen, aber das würde den Charakter der Stellung
+entscheidend verändern. Wenn Weiß Le3 spielt, vermeidet er die Fesselung und
+droht auch mit dxc5. Grundsätzlich sollte aber der Springer zuerst gezogen
+werden.} Bg4 {[%csl Yc5,Yc6,Gd4,Yd5,Yf3,Yg4][%cal Rc5d4,Rc6d4,Rd5d4,Rg4f3]
+Diese Fesselung ist integraler Bestandteil des schwarzen Plans. Schwarz
+organisiert weiterhin ein optimales Druckspiel gegen den Bauern d4. Er läßt
+sich mit diesem Zug die Möglichkeit offen, lang zu rochieren und den
+Figurendruck auf den weißen Damenbauern noch ein weiteres Mal zu erhöhen.
+Schwarz organisiert wieder optimales Druckspiel gegen den Bauern d4. Er hat
+auch noch die Möglichkeit, lang zu rochieren und den Druck noch weiter zu
+erhöhen} 6. Be2 {Diese Aufhebung der schwarzen Fesselung ist der aus gutem
+Grund populärste Zug an dieser Stelle. Weiß verteidigt indirekt den Bauern
+d4 und bereitet die kurze Rochade vor. Eine andere Idee verfolgt Sbd2 mit der
+Entwicklung des Läufers nach c4, aber der Damenspringer gehört auf jeden
+Fall nach c3. Der aus gutem Grund populärste Zug. Weiß verteidigt indirekt
+den Bauern d4 und bereitet die kurze Rochade vor. Eine andere Idee verfolgt
+Sbd2 mit der Entwicklung des Läufers nach c4, aber der Damenspringer gehört
+auf jeden Fall nach c3.} cxd4 $1 {Für Schwarz ist es jetzt die richtige Zeit
+zu schlagen und den weißen Damenbauern zu isolieren. Damit legt er die
+Struktur der Stellung fest und läßt dem Weißen weniger Auswahl bei seiner
+Fortsetzung und dem Setup seiner Figuren. Natürlich hat Schwarz hier auch
+noch andere Fortsetzungen zur Verfügung, aber diese erlauben Weiß etwas mehr
+Wahlfreiheit. Für Schwarz ist es jetzt die richtige Zeit zu schlagen und den
+weißen Damenbauern zu isolieren. Damit legt er die Struktur der Stellung fest
+und läßt dem Weißen weniger Auswahl.} 7. cxd4 {[%csl Rc3,Yc4,Yc5,Yd5,Ye4,
+Ye5][%cal Gd4e5,Gd4c5,Gb1c3,Gc3e4,Ge2c4,Gc3d5] Das ist die konsequente und
+konsistente Art des Zurückschlagens. Würde Weiß mit dem Springer auf d4
+zurückschlagen, so könnte Schwarz auf e2 tauschen und später den Bauern g2
+gewinnen. Weiß erhält aber nun den bekannten isolierten Damenbauern auf d4,
+aber dieser kontrolliert die wichtigen Felder e5 und c5. Weiterhin räumt der
+Tausch auf d4 das Feld c3 frei, das Weiß sobald wie möglich mit seinem
+Damenspringer besetzen wird. Der Damenbauer bleibt solange ein starker
+Vorposten im Zentrum, solange Weiß die weißen Felder um den Bauern
+beherrscht (insbesondere das Feld d5 vor ihm).} e6 {Dieser harmlos aussehende
+Zug verfolgt mehrere Zwecke. Schwarz kann die Entwicklung des Damenspringers
+Sb1-c3 nicht mehr verhindern. Auf ausweichende Damenzüge könnte dann immer
+sehr unangenehm der Vorstoß d4-d5 folgen. Dieser Vorstoß verfolgt zwei Ziele:
+1) Die Entwicklung des Schwarzen wird empfindlich gestört und Weiß erhält
+Raumvorteil 2) Weiß entledigt sich eventuell des schwachen isolierten Bauern.
+Wenn Schwarz diesen Vorstoß unterbindet, so kann er zumindest darauf hoffen,
+sein Zentrum zu stabilisieren und die Entwicklung des Königsflügels,
+insbesondere des schwarzen Königsläufers, zu vervollständigen. Dieser
+harmlos aussehende Zug verfolgt mehrere Zwecke. Schwarz kann Sb1-c3 nicht
+verhindern. Auf Damenzüge könnte dann immer sehr unangenehm der Vorstoß
+d4-d5 folgen. Außerdem kann der schwarze Königsläufer entwickelt werden} 8.
+Nc3 $1 {Dieser Zug ist ein eindeutiger Tempogewinn! Es gibt einige Autoren
+oder Experten, die behaupten, dass der Befragungszug h2-h3 viel genauer sei.
+Emms glaubt aber, dass diese Zugumstellung eine Ungenauigkeit in der
+Zugreihenfolge sei und begründet dies mit einer Partie von Miles. Oft wird
+hier auch h3 gespielt, aber es scheint als sei der Springerzug genauer.} Qa5 {
+In vielen Variante ist das Feld a5 ein ideales Fluchtfeld für die schwarze
+Dame. Hier steht die Dame am besten, denn sie ist aktiv platziert und nicht
+besonders einfach anzugreifen. Andere Damenzüge sind spielbar, aber weniger
+präzise. Weiß ist in der Lage, Schwarz einige schwerwiegende Probleme zu
+bereiten. Diese Varianten werden später erörtet. Zunächst muss Weiß einmal
+seine Entwicklung beenden und die aktiven schwarzen Figuren zurückdrängen.
+Weiß darf hier nicht zögern und anfangen, "fahrig" zu spielen. Er muss
+seinen geringen, aber spürbaren Entwicklungsvorsprung ausnutzen und versuchen,
+Schwachpunkte im schwarzen Lager zu schaffen, die nur auf Kosten von Zeit oder
+Material behoben werden können.} 9. h3 {Das ist die erste Maßnahme, die
+Weiß ergreifen muss. Der Läufer muss auf seiner aktiven Position befragt
+werden, damit die folgende Abwicklung im Zentrum unter Durchführung eines
+Bauernopfers durchgeführt werden kann. Würde Weiß zunächst rochieren, so
+würde er in eine andere Variante nach einer Zugumstellung transponieren -
+allerdings ohne das chancenreiche Bauernopfer} Bxf3 {Das ist sicher kein
+schlechter Zug, wenn man dem Gambit ausweichen will} 10. Bxf3 Bb4 $1 {Schwarz
+verbindet schnelle Entwicklung mit Zeitgewinn} 11. O-O Nge7 $1 (11... Bxc3 12.
+bxc3 Qxc3 13. Rb1 {sieht für Schwarz etwas zu riskant aus. Weiß hat das
+Läuferpaar in einer offenen Stellung und Entwicklungsvorsprung}) 12. Be3 O-O
+13. Qb3 {Weiß verbindet Entwicklung mit sorgfältiger Zentrumskontrolle} Rfd8
+14. Rad1 $1 {Die Türme gehören in einer IDB-Position auf die
+Nimzowitsch-Aufstellung d1 und e1} Rac8 15. d5 $1 {Der thematische Durchbruch}
+Ne5 ({Das Schlagen} 15... exd5 {ist schlecht für Schwarz} 16. Nxd5 {und der
+weiße Zentrumsvorteil macht sich bemerkbar}) *
+

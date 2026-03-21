@@ -1,0 +1,73 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Pavasovic-Gambit"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "40"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} Nf6 {
+Das ist der stärkste Gegenzug von Schwarz.} 3. e5 {Analog der
+Alekhine-Verteidigung lockt Schwarz den Bauern nach e5, um ihn zu schwächen
+und das starke Feld d5 zu besetzen. Er wird den Bauern mit Sb8-c6 und d7-d6
+weiter unter Druck setzen und angreifen. Anders als in der
+Alekhine-Verteidigung kann Weiß nicht gut c3-c4 spielen, denn das wäre ein
+ernsthafter Tempoverlust.} Nd5 {Der Springer kann hier nicht so schnell
+vertrieben werden. Er darf aber auch nicht einfach so toleriert werden.} 4. d4
+{Weiß muss versuchen die Stellung zu öffnen, um den starken Springer auf d5
+zu unterminieren und um sein Zentrum zu stärken.} cxd4 5. cxd4 e6 {Schwarz
+will sich nicht auf die gefährlichen Varianten des Pavasovic-Gambits
+einlassen, die nach d7-d6 entstehen, sondern strebt ein eher positionelleres
+Spiel an.} 6. Nf3 d6 {Trotzdem muss Schwarz das weiße Zentrum befragen.} 7.
+Bc4 {Ein Vorteil dieses Zugs ist, dass sich Schwarz nicht so langsam
+entwickeln kann.} ({Natürlich ist die Diagonale b1-h7 die ideale für den
+weißen Läufer, aber nach} 7. Bd3 {ist} Nb4 $1 {sehr ärgerlich. Weiß muss
+hier schon Konzessionen machen, zum Beispiel} 8. Bc4 dxe5 9. Nxe5 Qxd4 $1 10.
+Qxd4 Nc2+ 11. Kd1 Nxd4 {mit Mehrbauer und besserer Stellung für Schwarz.})
+7... Nc6 8. O-O Be7 9. Qe2 {[%csl Yd1,Yd3,Ye4,Ye5,Yg4][%cal Gf1d1,Ge2e4,Ge4g4,
+Gc4d3,Gd3e4] Das ist ein multifunktionaler Zug. Weiß deckt den Bauern e5,
+räumt d1 für den Turm und ermöglicht De2-e4 mit einer Läufer-Dame-Batterie
+oder De4-g4.} O-O {Das ist die Ausgangsstellung des Anti-Pavasovic-Gambits.}
+10. Qe4 {Weiß hat an dieser Stelle eine Menge Möglilchkeiten. Der Textzug
+punktet vernünftig und passt gut in den weißen Aufbau.} ({Die alte
+Hauptvariante startet mit} 10. Nc3 {, wonach Weiß strukturelle Schwächen in
+Kauf nimmt.} Nxc3 11. bxc3 dxe5 12. dxe5 {Dafür hat er Angriffschancen auf
+dem Königsflügel.} Qa5 13. Qe4 Qa4 $1 {ist eher nachteilig für Weiß, denn
+die "Fesselung" des Läufers c4 ist sehr ärgerlich.}) 10... Bd7 {Dies ist der
+Hauptzug in dieser Stellung.} (10... Qc7 {ist die Hauptalternative. Ähnlich
+wie in der Hauptvariante folgt.} 11. Re1) 11. Re1 {[%csl Yd2,Yf1][%cal Gb1d2,
+Gd2f1] Weiß baut den Angriff langsam auf. Er muss seinen Damenflügel noch
+entwickeln und denkt dabei an das Manöver Sb1-d2-f1.} ({(a)} 11. Bd3 $6 {
+ist viel direkter, jedoch folgt} f5 12. exf6 Nxf6 13. Qe2 {mit gutem Spiel
+für Schwarz. Er hat zwar eine Schwäche auf e6 erhalten, aber nach} Qe8 {
+nebst De8-h5 kann er die Stellung halten.}) ({(b) Der Bauerngewinn} 11. Bxd5 $2
+exd5 12. Qxd5 Nb4 13. Qe4 Bc6 {lohnt sich nicht, denn Weiß kann seine
+Stellung kaum zusammenhalten.}) ({(c) Ein paar Mal wurde} 11. exd6 Bxd6 12.
+Bxd5 exd5 13. Qxd5 {gespielt, aber die schwarze Kompensation ist hier auch
+sehr stark} Be6 14. Qh5 Qd7 15. h3 Bc4 16. Re1 Nb4) 11... Rc8 12. a3 $5 {
+[%csl Ya2,Yb1,Yc4,Yd2,Yf1,Yg3][%cal Gc4a2,Gb1d2,Gd2f1,Gf1g3] Weiß verhindert
+Sb4 und schafft ein Rückzugsfeld für den Läufer auf a2. Der Plan ist
+weiterhin Sb1-d2-f1-g3 und Lc4-a2 falls notwendig. Falls Weiß dies
+erfolgreich durchführt, dann ist er bereit, den Königsflügel zu erstürmen
+und einen klaren Vorteil zu erlangen. Daher sollte Schwarz versuchen, die
+leichten Schwächen auf den weißen Feldern des Damenflügels auszunutzen.} Na5
+13. Ba2 Ba4 {Dies ist sehr kreativ von Schwarz gespielt. Er beabsichtigt nicht
+nur Sa5-b3, sondern auch La4-c2.} 14. Qg4 Bc2 {[%csl Yc1,Yg6,Yg7,Yh6][%cal
+Gc2g6,Rc1h6,Rh6g7,Rg4g7] Schwarz entdeckt eine elegante Antwort auf die
+Bedrohung Lc1-h6, denn er kann mit dem Damenläufer nach g6 zurück.} 15. Bxd5
+{Dieser Abtausch verändert den Charakter der Stellung. Die weißen Felder
+bleiben jetzt lange schwach. Aber die restlichen Figuren werden aktiviert und
+sie können einen Königsangriff starten.} ({Nach} 15. Nbd2 Bf5 {hat Schwarz
+nichts mehr zu befürchten.}) 15... exd5 16. Nc3 Nb3 17. Nxd5 $1 {Ein
+Scheinopfer des Turms.} f5 $1 (17... Nxa1 $2 {scheitert an} 18. Qxc8) 18. exf6
+Bxf6 19. Bg5 $1 {Nur so kann der Angriff fortgesetzt werden.} Bxg5 (19... Nxa1
+$2 {verliert nach} 20. Nxf6+ Rxf6 21. Bxf6 Qxf6 22. Qxc8+) 20. Nxg5 Bf5 *
+

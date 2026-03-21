@@ -1,0 +1,53 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zentrumsgegenstoß"]
+[Black "Direkter Gegenstoß"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "27"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} d5 {
+Das ist die aggressivste schwarze Antwort. Der Zug zwingt Weiß sofort, sich
+zu entscheiden. Er ist dadurch gerechtfertigt, dass Schwarz sofort seinen
+Anspruch auf das Zentrum geltend macht und die schwarze Dame nicht auf d5
+durch den weißen Damenspringer angegriffen werden kann. Weiß erhält in der
+Folge einen isolierten Damenbauern auf d4, der mit Dame, Damenspringer und
+Damenläufer angegriffen werden kann. Das ist die aggressivste schwarze
+Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält einen
+isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden kann.} 3. exd5 {
+Weiß muss und will diesen Bauern schlagen. Er lockt die schwarze Dame in das
+Zentrum. Hier steht sie sehr aktiv, ist aber auch angreifbar.} Qxd5 {Für den
+Augenblick macht die schwarze Stellung einen guten Eindruck. Die schwarze Dame
+kontrolliert die Zentralfelder und der Bauer auf c5 reduziert das weiße
+Bauernzentrum auf d4.} 4. d4 {Dieser Zug ist der programmatische Vorstoß,
+denn Weiß erobert sich auf Kosten eines isolierten Damenbauern Raum und und
+öffnet Linien und Diagonalen für seine Figuren.} {Der Direkte Gegenstoß} e5
+{kann auch nach Sg1-f3 zur Hauptvariante führen. Weiß kann aber auch in ein
+vorteilhaftes Endspiel gehen, indem er den Bauern auf e5 nimmt.} 5. dxe5 {
+Schwarz kann jetzt mit dem Damentausch einen Bauern opfern oder den Bauern auf
+e5 mit Schach schlagen.} ({So führt} 5. Nf3 cxd4 6. cxd4 Nc6 {in die
+Hauptvariante.}) 5... Qxd1+ {Natürlich muss Schwarz hier nicht die Damen
+tauschen.} ({Ein simpler Zug ist} 5... Qxe5+ {Das ist sicher spielbar für
+Schwarz, hat aber nicht überzeugt, denn Weiß gewinnt Zeit bei der Jagd auf
+die Dame.} 6. Be2 Nf6 7. Nf3 Qc7 8. Na3 $1 {Weiß setzt seine Jagd fort und
+hat zumindest einen kleinen Vorteil.}) 6. Kxd1 {Im Unterschied zum Gegenstoß
+nach Abtausch ist das Endspiel besser für Weiß, denn die Bauern auf c3 und
+auf c5 begünstigen Weiß: 1. Der Bauer c5 behindert den Läufer auf f8,
+während der Bauer auf c3 die Felder b4 und d4 überdeckt 2. Mit der
+geschlossenen c-Linie findet der weiße König eher einen sicheren Hafen auf
+c2 als auf einer offenen Linie. Schwarz besitzt einige Ressourcen. Weiß hat
+ernsthafte Chancen auf einen Vorteil hier. Eine mögliche Fortsetzung lautet}
+Nc6 7. f4 f6 8. Nf3 Bg4 9. Kc2 O-O-O 10. Bd3 $1 {will den Bauern zurückgeben,
+um einen materiellen Vorteil in einen positiionellen zu verwandeln.} Bxf3 11.
+gxf3 fxe5 12. Na3 exf4 13. Bxf4 Bd6 14. Be3 {[%csl Yb5,Yc4][%cal Ga3c4,Ga3b5]
+Mit dem Läferpaar und dem aktiven Springer auf c4 oder b5 hat Weiß sicher
+Erfolgsaussichten in dieser Stellung.} *
+

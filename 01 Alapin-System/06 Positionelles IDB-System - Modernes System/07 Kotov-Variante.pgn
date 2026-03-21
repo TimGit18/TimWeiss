@@ -1,0 +1,68 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Modernes System"]
+[Black "Kotov-Variante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "37"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält zwar einen
+isolierten Damenbauern, der mit Sb8-c6 und Lc8-g4 (nach Deckung von Sg1-f3)
+angegriffen werden kann. Dafür erhält er Raum im Zentrum und eine bequeme
+Kontrolle über die Zentrumsfelder e5 und c5. Das ist die aggressivste
+schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß
+erhält einen isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden
+kann.} 3. exd5 {Weiß muss im Zentrum schlagen, um das starke schwarze
+Bauernzentrum zu zerstören. Er lockt eine schwarze Figur (meistens die Dame)
+in das Zentrum, die dann von den weißen Leichtfiguren angegriffen werden kann.
+} Qxd5 {[%csl Yd3,Yd4,Yd5,Ye4,Yf3,Yg2][%cal Rd5g2,Rd5d2] Dieser Zug ist ganz
+im Sinne des schwarzen Plans. Schwarz platziert die Dame auf einem zentralen
+Feld, auf dem sie eine maximale Kontrolle über die weißen Felder im Zentrum
+ausübt. Außerdem kann die schwarze Dame im Moment nicht vertrieben werden
+und übt einen gewissen Druck auf den zu erwartenden Bauernvorstoß d2-d4 aus.
+Schwarz hat jetzt hier die drei grundsätzlichen Pläne zur Auswahl: (1) Er
+setzt wie oben beschrieben das weiße Zentrum mit seinen Figuren unter Druck. 
+(2) Er versucht, dass weiße Zentrum mit dem thematischen Gegenstoß e7-e5
+aufzulösen, was allerdings sehr präzises Spiel erfordert. (3) Er versucht
+das weiße Zentrum direkt aufzulösen und nimmt dabei einen forcierten
+Figurenabtausch in Kauf.} 4. d4 {Weiß besetzt sofort das Zentrum mit seinem
+Damenbauern. Er hat keine Angst vor der Isolierung dieses Bauern, weil sie
+seinen Figuren (den Läufern und dem Damenspringer) gute Felder für die
+beschleunigte Entwicklung gibt.} Nf6 {Dieser Zug ist die gebräuchlichste
+Fortsetzung in dieser Stellung, denn er ist sehr flexibel und kann zu vielen
+verschiedenen Systemen führen. Anders als in den Stellungen, in denen Schwarz
+zunächst Sb8-c6 zieht, greift Schwarz nicht direkt den d-Bauern an.
+Andererseits hat Schwarz auch schon einen Schritt weiter zur kurzen Rochade
+gemacht. Und ohne den Springer auf c6 hat Schwarz weniger Bedenken über den
+weißen Vorstoß c3-c4 und d4-d5. Das ist ein wichtiger Punkt, wie man sehen
+wird.} 5. Nf3 {Gelegentlich versucht Weiß den Springerzug und die
+nachfolgende Fesselung zu vermeiden, aber das führt zu keinem Erfolg. Schwarz
+kann meistens ausgleichen.} e6 {Diese moderne Fortsetzung ist sehr beliebt bei
+Schwarz. Denn sie erlaubt es den Schwarzspielern, direkt traditionelle
+IDB-Stellungen zu spielen und vermeidet viele der scharfen Stellungen, wenn
+Weiß auf c5 nimmt.} 6. Be3 cxd4 7. cxd4 {Von Kotov stammt die Variante} Bb4+ {
+Schwarz plant den Abtausch des Läufers gegen den Springer auf c3. Wenn
+möglich möchte er auch die weißfeldrigen Läufer abtauschen mit b7-b6 und
+Lc8-a6 oder Lc8-d7-b5. Dann möchte er seine übrigen Figuren aktivieren und
+gegen die hängenden Bauern auf c4 und d4 spielen.} 8. Nc3 O-O ({Ähnliche
+Stellungen entstehen nach} 8... Bd7 9. Bd3 Bb5 10. O-O Bxc3 11. bxc3 O-O 12.
+Bxb5 Qxb5 13. Rb1 Qa6 14. Qb3 b6) 9. Bd3 b6 (9... Bd7 10. O-O ({Vielleicht
+sollte Weiß hier} 10. Qe2 {spielen.}) 10... Bxc3 11. bxc3 Bb5 12. Bxb5 Qxb5 {
+transponiert in die obige Variante.}) 10. O-O Bxc3 11. bxc3 Ba6 $1 (11... Bb7
+$6 {ist schlecht wegen} 12. c4) 12. Bxa6 Nxa6 13. Qe2 {Weiß muss schnell
+c3-c4 spielen bevor Schwarz sich auf den weißen Feldern festsetzen kann.} Nb8
+$1 {Die sofortige Umgruppierung ist für Schwarz die genaueste Fortsetzung.} ({
+Denn} 13... Qb7 14. c4 Rac8 15. a4 Ne4 16. Rfc1 Nb8 17. a5 Nd7 18. Qb2 Qc7 19.
+axb6 axb6 20. Ra4 Qc6 21. Rb4 {ist etwas besser für Weiß.}) 14. c4 Qe4 15.
+Qb2 (15. a4 {ist hier nicht so gut wegen} Nc6 {und der Vormarsch nach a5 ist
+gestoppt.}) 15... Nc6 (15... Nbd7 {erlaubt} 16. a4 Rac8 17. Rfc1 {und der
+Vormarsch a4-a5 liegt in der Luft.}) 16. Qb5 Rac8 17. Rfe1 Qg6 18. Rac1 Rfd8
+19. c5 $5 {Das ist sehr verpflichtend, aber Weiß versucht, die abseitige
+Stellung der schwarzen Dame auszunutzen.} *
+

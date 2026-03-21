@@ -1,0 +1,48 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches Fianchetto"]
+[Black "Zugumstellung"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "25"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält zwar einen
+isolierten Damenbauern, der mit Sb8-c6 und Lc8-g4 (nach Deckung von Sg1-f3)
+angegriffen werden kann. Dafür erhält er Raum im Zentrum und eine bequeme
+Kontrolle über die Zentrumsfelder e5 und c5. Das ist die aggressivste
+schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß
+erhält einen isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden
+kann.} 3. exd5 {Weiß muss im Zentrum schlagen, um das starke schwarze
+Bauernzentrum zu zerstören. Er lockt eine schwarze Figur (meistens die Dame)
+in das Zentrum, die dann von den weißen Leichtfiguren angegriffen werden kann.
+} Qxd5 {[%csl Yd3,Yd4,Yd5,Ye4,Yf3,Yg2][%cal Rd5g2,Rd5d2] Dieser Zug ist ganz
+im Sinne des schwarzen Plans. Schwarz platziert die Dame auf einem zentralen
+Feld, auf dem sie eine maximale Kontrolle über die weißen Felder im Zentrum
+ausübt. Außerdem kann die schwarze Dame im Moment nicht vertrieben werden
+und übt einen gewissen Druck auf den zu erwartenden Bauernvorstoß d2-d4 aus.
+Schwarz hat jetzt hier die drei grundsätzlichen Pläne zur Auswahl: (1) Er
+setzt wie oben beschrieben das weiße Zentrum mit seinen Figuren unter Druck. 
+(2) Er versucht, dass weiße Zentrum mit dem thematischen Gegenstoß e7-e5
+aufzulösen, was allerdings sehr präzises Spiel erfordert. (3) Er versucht
+das weiße Zentrum direkt aufzulösen und nimmt dabei einen forcierten
+Figurenabtausch in Kauf.} 4. d4 {Weiß besetzt sofort das Zentrum mit seinem
+Damenbauern. Er hat keine Angst vor der Isolierung dieses Bauern, weil sie
+seinen Figuren (den Läufern und dem Damenspringer) gute Felder für die
+beschleunigte Entwicklung gibt.} {Zu Zugumstellung führt meistens} Nf6 5. Nf3
+g6 {Allerdings hat Weiß die zusätzliche Möglichkeit von} 6. Qb3 $5 {Es
+scheint überraschend zu sein, dass Weiß einen Vorteil durch den Damentausch
+erringen kann.} cxd4 {erlaubt es Weiß, den Punkt hinter dem vorhergehenden
+Zug zu machen.} ({(a)} 6... Be6 7. c4 Qd7 8. d5 {ist auch nett für Weiß.}) ({
+(b) Nach} 6... Qxb3 7. axb3 {öffnet sich die a-Linie und ist nicht besonders
+bequem für Schwarz im Hinblick auf Ideen mit Sc3-b5.} Be6 8. c4) 7. Bc4 Qe4+
+8. Kf1 e6 9. cxd4 {Der weiße Vorsprung in der Entwicklung ist viel wichtiger
+als der Rochadeverlust.} Be7 ({Nicht so gut ist} 9... Bg7 10. Nc3 Qg4 11. Nb5
+$1) 10. Nc3 Qf5 11. Nb5 Na6 12. Bh6 Ng4 13. Bg5 $1 {Schwarz kann den Läufer
+wegen der Gabel auf d6 nicht schlagen.} *
+

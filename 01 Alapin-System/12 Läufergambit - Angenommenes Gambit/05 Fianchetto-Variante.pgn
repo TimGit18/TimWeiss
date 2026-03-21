@@ -1,0 +1,67 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Läufergambit"]
+[Black "Fianchetto-Variante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "45"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. (a) Die wichtigste Alternative bildet das Moderne System,
+das ebenfalls einen Gegenangriff gegen den Bauern e4 darstellt.} Nf6 {[%csl
+Ye4][%cal Rf6e4] Der weiße e-Bauer kann nicht gut verteidigt werden.} 3. e5 {
+Der Vorstoß des e-Bauern bildet die beste weiße Fortsetzung. Weiß erobert
+Raum im Zentrum, und seine Figuren können sich hinter dem Bauern, der früher
+oder später mit d7-d6 angegriffen wird, frei entwickeln.} Nd5 {[%csl Yc4,Yd4]
+[%cal Gd2d4,Gf1c4,Gc4d5] Ähnlich wie in der Alekhine-Verteidigung findet
+Schwarz ein gutes Zentralfeld für den Springer. Weiß muss diesen mit Tempo
+vertreiben und parallel dazu ein gutes Bauernzentrum aufbauern.} 4. d4 cxd4 {
+Eine valide Alternative stellt das Läufergambit mit} 5. Nf3 Nc6 {dar. Weiß
+opfert einen Bauern für Entwicklungsvorsprung. Anders als im Pavasovic-Gambit
+schlägt Weiß nicht auf d4, weil der Bauer erstens sowieso nicht auf c3
+schlagen kann und zweitens Weiß Zeit spart, um seine Figuren schnell zu
+entwickeln.} ({(a) Der Zug} 5... e6 {stellt eine Transposition in das
+Anti-Pavasovic-Gambit dar.}) ({(b) Der Zug} 5... d6 {kann nach Zurückschlagen
+in eine Transposition in das Pavasovic-Gambit münden oder auch nicht nach} 6.
+Bc4 Nb6 7. Bb3 Nc6 8. exd6) 6. Bc4 {[%csl Yd5][%cal Gc4d5] Weiß greift sofort
+an und bereitet die kurze Rochade vor.} Nb6 {Durch den Rückzug und
+gleichzeitigen Angriff auf den Läufer gewinnt Schwarz Zeit.} 7. Bb3 d6 {
+Die Hauptfortsetzung lautet eigentlich d7-d5, aber nach Schlagen en passent
+ergibt sich dieselbe Stellung.} 8. exd6 ({Die Alternative} 8. cxd4 dxe5 (8...
+Bg4 {ist besser, denn Schwarz erreicht eine günstige Französisch-Stellung.})
+9. d5 {würde wieder in das Pavasovic-Gambit münden.}) 8... Qxd6 $1 {Das ist
+der beste Zug von Schwarz in dieser Stellung. Er vermeidet das gierige
+Schlagen auf c3 und entwickelt seine Dame auf ein gutes zentrales Feld.} 9. O-O
+$1 {Weiß hält an seinem Gambit-Angebot fest. Natürlich könnte er auch den
+Bauern auf d4 schlagen, aber Schwarz entwickelt seinen Damenläufer nach e6
+und reduziert das weiße Angriffspotential.} Be6 $1 {Nur dieser Zug macht die
+gesamte Variante spielbar für Schwarz. Er möchte den mächtigen
+Königsläufer von Weiß abtauschen.} 10. Na3 $1 {[%csl Yb5,Yd6][%cal Ga3b5,
+Gb5d6] Dieser Zug, der den Angriff auf die Dame über b5 vorbereitet, ist der
+gefährlichste Zug für Schwarz} dxc3 $1 {Die Annahme des Läufergambits ist
+der kritische Test für die gesamte Variante. Andere Züge bieten Weiß die
+Möglichkeit auf Vorteil.} 11. Qe2 $1 {Der Zug vermeidet den Damentausch.
+Andere Züge bieten Weiß geringere Erfolgsaussichten. Er bietet einen zweiten
+Bauern an, den Schwarz aber nicht nehmen kann.} Bxb3 12. Nb5 $1 {Ein vitaler
+Zwischenzug.} Qb8 13. axb3 {Der weiße Entwicklungsvorsprung und die aktiven
+Figuren geben Kompensation für den Bauern, allerdings hat Schwarz keine
+Schwächen in der Stellung.} {Die Fianchetto-Variante beginnt mit} g6 {und ist
+eine schöne Alternative. Am besten spielt Weiß} 14. Be3 ({Früher spielte
+man nur} 14. Rd1 {, um auf d6 mit demSpringer Schach zu geben, aber später
+entdeckte man, dass Schwarz das Schach erlauben kann.}) 14... Nc8 $1 ({Gegen} 
+14... Nd5 {hat Weiß den schönen taktischen Trick} 15. Bxa7 {mit der Absicht}
+Nxa7 ({Und auf} 15... cxb2 {folgt} 16. Qxb2 Nxa7 17. Nxa7 Rg8 18. Nb5 Rxa1 19.
+Qxa1 {mit guter Kompensation für den Bauern.}) 16. Rxa7 Rxa7 17. Nxa7 Qxa7 18.
+Qb5+) 15. Ra4 $1 {bereitet kreativ Lc1-f4 vor.} Bg7 16. Bf4 e5 17. Nxe5 Nxe5 $1
+18. Bxe5 Bxe5 19. f4 {mit vielen interessanten Möglichkeiten.} O-O 20. fxe5 {
+Die schwarzen Ressourcen scheinen hier ausreichend.} cxb2 21. Re4 a6 22. Nd4
+Ne7 23. Qxb2 *
+

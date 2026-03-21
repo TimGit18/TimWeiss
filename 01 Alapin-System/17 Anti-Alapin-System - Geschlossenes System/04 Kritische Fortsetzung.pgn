@@ -1,0 +1,29 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Geschlossenes Anti-Alapin"]
+[Black "Kritische Fortsetzung"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "33"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das geschlossene Anti-Alapin schließt das Zentrum gegen den
+Öffnungszug d2-d4 ab.} e5 3. Nf3 Nc6 4. Bc4 {Mit den schwarzen Bauern auf e5
+und c5 liegt der Läuferzug nach c4 nahe. Denn auf d5 ist ein riesiges Loch.} {
+Die Kritische Fortsetzung lautet} Nf6 5. Ng5 {wie im Zweispringerspiel,
+allerdings führen die vorgerückten c-Bauern zu einigen Unterschieden.} d5 6.
+exd5 Nxd5 $1 (6... Na5 $2 {macht hier keinen Sinn nach} 7. Bb5+ Bd7 8. Qa4) 7.
+Qh5 $1 {mit einer Variante des Fried Liver Attacks.} g6 (7... Qd7 8. d3 {
+droht bereits das Schlagen auf f7.}) 8. Qf3 Qxg5 (8... Be6 9. Nxe6 fxe6 10. d3
+{muss wegen der hässlichen e-Bauern besser für Weiß sein.}) 9. Bxd5 Nd8 10.
+O-O {Weiß droht mit d2-d4 und hat gute Chancen auf Vorteil.} Qf5 11. Re1 Bg7
+12. d4 cxd4 13. cxd4 Qxf3 14. Bxf3 O-O 15. dxe5 Re8 16. Bf4 Ne6 17. Bg3 *
+

@@ -1,0 +1,75 @@
+[Event "CBM 088 094"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pavasovic-Gambit"]
+[Black "Stützungsvariante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Dorian Rogozenco"]
+[PlyCount "36"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} Nf6 {
+Das ist der stärkste Gegenzug von Schwarz.} 3. e5 {Analog der
+Alekhine-Verteidigung lockt Schwarz den Bauern nach e5, um ihn zu schwächen
+und das starke Feld d5 zu besetzen. Er wird den Bauern mit Sb8-c6 und d7-d6
+weiter unter Druck setzen und angreifen. Anders als in der
+Alekhine-Verteidigung kann Weiß nicht gut c3-c4 spielen, denn das wäre ein
+ernsthafter Tempoverlust.} Nd5 {Der Springer kann hier nicht so schnell
+vertrieben werden. Er darf aber auch nicht einfach so toleriert werden.} 4. d4
+{Weiß muss versuchen die Stellung zu öffnen, um den starken Springer auf d5
+zu unterminieren und um sein Zentrum zu stärken.} cxd4 5. cxd4 d6 6. Nf3 Nc6
+7. Bc4 Nb6 8. Bb3 dxe5 9. d5 $1 {Weiß muss dieses Bauernopfer schon bringen.}
+({Nach} 9. dxe5 $2 Qxd1+ 10. Bxd1 {hat Schwarz sein Ziel erreicht und die
+Stellung vereinfacht.}) 9... Na5 {Das ist bestimmt das beste Feld für den
+Springer.} 10. Nc3 {Die Stützungsvariante wird durch den folgenden Zug
+eingeleitet} f6 {Der Zug sieht zunächst einmal unglaublich häßlich aus, sie
+sichert aber zumindest den Bauern e5.} 11. O-O ({Der häufigst gespielte Zug
+lautet} 11. Be3 e6 $2 {[%mdl 64] Dieser natürliche Zug erlaubt Weiß schon
+die entscheidende Kombination, die auch nach 11.0-0 möglich ist.} ({Die
+richtige Alternative ist} 11... g6) 12. Nxe5 $1 {Eine schöne und präzise
+Bestrafung. Die nächsten Züge sind alle forciert.} fxe5 13. Qh5+ g6 14. Qxe5
+Nxb3 ({Den Läufer nicht abzutauschen ist keine wirkliche Alternative.} 14...
+Rg8 15. dxe6 Nc6 16. Qf4 {Und gegen das Damenschach auf f7 hilft gar nichts.}
+Rg7 17. Qf7+ {Trotzdem!} Rxf7 18. exf7+ Kd7 (18... Ke7 19. Bg5+ $18) 19. O-O-O+
+Kc7 20. Nb5+ Kb8 21. Rxd8 {[%cal Ge3f4]}) 15. axb3 Rg8 16. dxe6 {Weiß droht
+Db5+ gefolgt von Lxb6. Erstaunlicherweise hat Schwarz keine gute Verteidigung
+dagegen. Er verliert mindestens einen Bauern.} Qd6 (16... Bd6 17. Qb5+ $18) (
+16... a6 $142 17. Rd1 $5 $16 (17. Bxb6 Qxb6 18. Nd5 Bb4+ 19. Kf1 Qd6 20. Nc7+ (
+20. Nf6+ Kf8 21. Nxh7+ Ke8 22. Nf6+ Kf8 23. Qxd6+ Bxd6 24. Nxg8 Kxg8 25. Rd1
+Be7 26. Re1 a5 $1 {[%cal Ga8a6]}) 20... Kd8 21. Qxd6+ Bxd6 22. Nxa8 Bxe6 {
+Schwarz kann hier noch Hoffnung haben.})) 17. Qb5+ Qc6 18. Bxb6 Bg7 19. O-O
+Bxc3 20. Qxc6+ bxc6 21. bxc3 Bxe6 22. Bxa7 Bxb3 {Sonst entscheiden die beiden
+Mehrbauern.} 23. Rfe1+ {Der König findet selbst in diesem Endspiel keine
+Sicherheit und wird auf e2 mattgesetzt.} Kf7 24. Reb1 Bc2 25. Rb7+ Ke6 26. Rxh7
+Kd5 27. Ra5+ Kc4 28. Rc5+ Kd3 29. Rd7+ {für Weiß in Brochet,P (2407)-Sarthou,
+G (2375) France 2003} (29. Rd7+ Ke2 (29... Ke4 30. Rd4#) 30. Re5+)) 11... g6 ({
+(a) Eine Alternative ist} 11... Bd7 $5 12. Be3 Rc8 {Weiß hat Kompensation
+für den Bauern, aber keine richtigen Angriffsziele.}) ({(b) Sveshnikov
+erwähnt dasselbe Opfer} 11... e6 12. Nxe5 Nxb3 13. axb3 fxe5 14. Qh5+ g6 15.
+Qxe5 Rg8 16. dxe6 Qd6) 12. Be3 Bg7 13. Bc5 ({(a)} 13. d6 $5 {Das ist auch eine
+Idee von Dusko Pavasovic.} Qxd6 14. Nb5 Qc6 15. Nxa7 Rxa7 16. Rc1 Qd7 17. Bxb6
+Nxb3 18. Qxb3 Ra8 19. Rc7 Qe6 20. Bc5 Bf8 {mit einer Riesenstellung für Weiß
+aus ½-½ Pavasovic,D (2596)-Fedorov,A (2595) Rabac 2003.}) ({(b)} 13. Rc1 O-O
+(13... Bd7 14. Bxb6 axb6 15. Ba4 Nc4 16. Bxd7+ Qxd7 17. d6 Bh6 18. Nd5 $1 $13 {
+0-1 Tischbierek,R-Macieja,B/Willemstad, Curacao AHO 2001/ (54)}) 14. d6+ Kh8
+15. dxe7 Qxe7 16. Nd5 $16 {1-0 Rausis,I-Bratanov,Z/Porto San Giorgio 2000/ (39)
+}) 13... Bg4 $146 {Das war eine Neuerung von Gelfand. Ältere Beispiele sind} (
+{(a)} 13... Bd7 14. Ne4 Nxb3 15. Qxb3 Na4 16. Rac1 O-O 17. d6+ e6 18. Be3 b6
+19. Rc7 h6 (19... f5 20. Neg5 $16) 20. Rfc1 $44 {1-0 Bergez,L-Palac,M/
+Montpellier 2000 (31)}) ({(b)} 13... Kf7 $5 14. Re1 Nbc4 15. Ne4 Bf5 16. d6 e6
+$13 {1/2-1/2 Rausis,I-Mueller,O/Germany 1995 (44)}) 14. h3 (14. Bxb6 axb6 $1 (
+14... Qxb6 $2 15. Ba4+ $36 Kd8 (15... Bd7 16. Bxd7+ Kxd7 17. Qa4+ $16) (15...
+Kf8 16. Nxe5 $1) (15... Kf7 $2 16. Nxe5+) 16. h3 $44) 15. Ba4+ Bd7) 14... Bxf3
+15. Qxf3 Nxb3 16. axb3 O-O 17. Rfd1 Qd7 (17... Nc8 18. d6 $5 Nxd6 19. Bxd6 exd6
+20. Qxb7 $44) (17... Rf7 18. d6 exd6 19. Rxd6 $44) 18. d6 $1 exd6 {Das war die
+Partie Pavasovic,D (2539)-Gelfand,B (2714) Portoroz 2001. Schade, dass hier
+ein Remis vereinbart wurde. Die Stellung ist voller Möglichkeiten und beide
+Seiten können noch weiterkämpfen.} (18... exd6 19. Rxd6 Qf7 (19... Qc7 20. b4
+f5 21. Nb5 Qf7 22. Qd1 $44 {[%csl Ra7,Rb6][%cal Gc5f8]}) 20. Ne4 $5 $44) *
+

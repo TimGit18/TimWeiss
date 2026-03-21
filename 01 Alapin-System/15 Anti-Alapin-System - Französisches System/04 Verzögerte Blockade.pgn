@@ -1,0 +1,37 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Französisches Anti-Alapin"]
+[Black "Verzögerte Blockade"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "31"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das Französische Anti-Alapin-System entsteht nach} e6 3. d4
+d5 {Schwarz sollte hier nicht zu früh auf d4 schlagen, denn es würde das
+Feld c3 für den Springer räumen.} ({Würde Schwarz} 3... cxd4 4. cxd4 d5 {
+spielen, dann erhielte Weiß nach} 5. e5 {[%csl Yc3][%cal Gb1c3] eine sehr
+gute Version der Französischen Vorstoßvariante, denn Schwarz hat übermütig
+getauscht und der weiße Damenspringer kann jetzt nach c3.}) 4. exd5 {[%cal
+Gd8d5]} exd5 {Diese Stellung kann in eine Französische Tarrasch-Position
+transponiert werden.} (4... Qxd5 {würde wieder in die Klassischen Systeme des
+Alapin-Systems münden.}) 5. Nf3 {[%csl Yd4][%cal Gf3d4] Das ist hier am
+besten, denn Weiß will am Ende eines Massentausches einen Springer auf d4
+behalten.} Nc6 {Das ist der gebräuchlichste Zug, doch Schwarz hat auch
+Alternativen.} 6. Bb5 {Der Zug entwickelt den Läufer, bereitet die kurze
+Rochade vor und nimmt etwas den Druck von d4.} {Die verzögerte Blockade} c4 $6
+{macht hier weniger Sinn, da der Läufer schon hinter der Bauernkette steht.
+Karpov hat diesen Aufbau schön widerlegt} 7. Ne5 Qb6 8. Bxc6+ bxc6 9. O-O Bd6
+10. b3 $1 cxb3 11. axb3 Ne7 12. Ba3 Bxe5 ({Stärker ist} 12... Bxa3 {, aber}
+13. Rxa3 O-O 14. Re1 {gibt Weiß immer noch einen schönen Vorteil.}) 13. dxe5
+Be6 14. Qd4 Nf5 15. Qc5 h5 16. Nd2 {, wonach Schwarz nicht in der Lage ist zu
+rochieren.} *
+

@@ -1,0 +1,30 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Geschlossenes Anti-Alapin"]
+[Black "Gebräuchlichste Fortsetzung"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "17"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das geschlossene Anti-Alapin schließt das Zentrum gegen den
+Öffnungszug d2-d4 ab.} e5 3. Nf3 Nc6 4. Bc4 {Mit den schwarzen Bauern auf e5
+und c5 liegt der Läuferzug nach c4 nahe. Denn auf d5 ist ein riesiges Loch.} {
+Der gebräuchlichste Zug ist} Qc7 {[%csl Yd8,Yf7,Yg5][%cal Gf3g5,Rg5f7,Rc4f7,
+Gc6d8,Gd8f7] Der Zug hat zwei Motive. Erstens wird die Öffnung des Zentrums
+mit d2-d4 verhindert, denn der Läufer hinge dann auf c4. Zweitens möchte
+Schwarz den Angriff auf f7 mit dem Rückzug Sc6-d8 beantworten. Am besten ist
+wohl jetzt} 5. O-O Nf6 (5... Be7 {Hier bringt jetzt der Springerausfall nach
+g5 nicht viel.} 6. d4 cxd4 7. Bb3 $1 dxc3 8. Qd5 Nd8 9. Nxc3 {mit
+ausgezeichneter Kompensation für den Bauern, eine Stellung, die an das
+Morra-Gambit erinnert.}) 6. Ng5 Nd8 7. f4 $1 h6 (7... exf4 8. e5 $1) 8. Nf3 $1
+exf4 9. e5 {mit einer Art Königsgambit.} *
+

@@ -1,0 +1,29 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alternatives Anti-Alapin"]
+[Black "Damenausfall"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "23"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das Königsfianchetto-Anti-Alapin ist das wichtigste
+Alternative Anti-Alapin-System und beginnt mit} {Das Damenausfall-Anti-Alapin
+erfolgt nach} Qa5 {Es ist ein merkwürdiger Zug, der aber nicht so schlecht
+ist wie er aussieht. Schwarz benutzt seine stärkste Figur, um den Vorstoß
+d2-d4 zu verhindern. Eine logische Folge ist die ganz normale Entwicklung der
+weißen Figuren.} {Natürlich und gut ist} 3. Nf3 Nc6 4. Na3 $5 {will die
+Stellung der schwarzen Dame ausnutzen.} (4. Bc4 {Es folgt die kurze Rochade
+und d2-d4.} e6 5. O-O) 4... e6 (4... d6 5. Nc4 Qc7 6. d4) 5. Bb5 Qc7 6. O-O a6
+7. Bxc6 Qxc6 8. Re1 Nf6 9. d4 cxd4 10. cxd4 Bxa3 (10... Nxe4 $2 11. Ne5 Qd5 12.
+Nac4 {[%csl Yb6][%cal Rc4b6] mit Gabeldrohung auf b6.}) 11. d5 Qc4 12. bxa3 {
+mit einer starken weißen Stellung.} *
+

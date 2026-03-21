@@ -1,0 +1,70 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Modernes System"]
+[Black "Verbesserung"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "36"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält zwar einen
+isolierten Damenbauern, der mit Sb8-c6 und Lc8-g4 (nach Deckung von Sg1-f3)
+angegriffen werden kann. Dafür erhält er Raum im Zentrum und eine bequeme
+Kontrolle über die Zentrumsfelder e5 und c5. Das ist die aggressivste
+schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß
+erhält einen isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden
+kann.} 3. exd5 {Weiß muss im Zentrum schlagen, um das starke schwarze
+Bauernzentrum zu zerstören. Er lockt eine schwarze Figur (meistens die Dame)
+in das Zentrum, die dann von den weißen Leichtfiguren angegriffen werden kann.
+} Qxd5 {[%csl Yd3,Yd4,Yd5,Ye4,Yf3,Yg2][%cal Rd5g2,Rd5d2] Dieser Zug ist ganz
+im Sinne des schwarzen Plans. Schwarz platziert die Dame auf einem zentralen
+Feld, auf dem sie eine maximale Kontrolle über die weißen Felder im Zentrum
+ausübt. Außerdem kann die schwarze Dame im Moment nicht vertrieben werden
+und übt einen gewissen Druck auf den zu erwartenden Bauernvorstoß d2-d4 aus.
+Schwarz hat jetzt hier die drei grundsätzlichen Pläne zur Auswahl: (1) Er
+setzt wie oben beschrieben das weiße Zentrum mit seinen Figuren unter Druck. 
+(2) Er versucht, dass weiße Zentrum mit dem thematischen Gegenstoß e7-e5
+aufzulösen, was allerdings sehr präzises Spiel erfordert. (3) Er versucht
+das weiße Zentrum direkt aufzulösen und nimmt dabei einen forcierten
+Figurenabtausch in Kauf.} 4. d4 {Weiß besetzt sofort das Zentrum mit seinem
+Damenbauern. Er hat keine Angst vor der Isolierung dieses Bauern, weil sie
+seinen Figuren (den Läufern und dem Damenspringer) gute Felder für die
+beschleunigte Entwicklung gibt.} Nf6 {Dieser Zug ist die gebräuchlichste
+Fortsetzung in dieser Stellung, denn er ist sehr flexibel und kann zu vielen
+verschiedenen Systemen führen. Anders als in den Stellungen, in denen Schwarz
+zunächst Sb8-c6 zieht, greift Schwarz nicht direkt den d-Bauern an.
+Andererseits hat Schwarz auch schon einen Schritt weiter zur kurzen Rochade
+gemacht. Und ohne den Springer auf c6 hat Schwarz weniger Bedenken über den
+weißen Vorstoß c3-c4 und d4-d5. Das ist ein wichtiger Punkt, wie man sehen
+wird.} 5. Nf3 {Gelegentlich versucht Weiß den Springerzug und die
+nachfolgende Fesselung zu vermeiden, aber das führt zu keinem Erfolg. Schwarz
+kann meistens ausgleichen.} e6 {Diese moderne Fortsetzung ist sehr beliebt bei
+Schwarz. Denn sie erlaubt es den Schwarzspielern, direkt traditionelle
+IDB-Stellungen zu spielen und vermeidet viele der scharfen Stellungen, wenn
+Weiß auf c5 nimmt.} 6. Be3 cxd4 7. cxd4 Nc6 8. Nc3 Qd6 9. a3 Be7 10. Bd3 O-O
+11. O-O b6 12. Qe2 {Das ist das beste Feld für die Dame.} Bb7 13. Rad1 {
+[%csl Yd5][%cal Rd4d5,Gd1d4] Und das ist das beste Feld für den Damenturm. Er
+steht direkt hinter dem IDB und unterstützt einen möglichen zentralen
+Vorstoß wie d4-d5. Außerdem steht er besser als auf c1, denn dort erreicht
+er nicht viel und würde wahrscheinlich abgetauscht werden.} Rfd8 {[%cal Ga8c8,
+Rd8d4] Das ist der natürlichste Zug von Schwarz. Der Königsturm kommt auf
+die d-Linie, vermehrt den Druck auf den Bauern d4, und der andere Turm wird
+die c-Linie besetzen.} 14. Rfe1 {In diesem Augenblick sieht es so aus, als tue
+dieser Turm auf e1 nicht besonders viel. Aber in Zukunft steht der Turm hier
+gut.} Rac8 15. Bg5 {Nun wird das weiße Spiel sehr viel direkter, und es
+liegen bereits Drohungen wie d4-d5 in der Luft.} {Eine mögliche Verbesserung
+stellt der Zug} h6 {dar.} 16. Bh4 ({(a) Das direkte} 16. Bxf6 Bxf6 17. d5 {
+sollte Schwarz keine großen Probleme bereiten nach} Nd4 $1 ({Und nicht} 17...
+exd5 18. Nxd5 Qxd5 19. Bh7+ Kxh7 20. Rxd5 Rxd5 21. Qe4+ {mit weißem Gewinn})
+18. Nxd4 Bxd4 19. dxe6 Qxe6 20. Qxe6 fxe6 21. Rxe6 {mit einem etwa gleichen
+Endspiel.}) ({(b) Es geht auch} 16. Bc1 {, um auf b1 und c1 zwei
+Läuferbatterien aufzubauen und mit d4-d5 durchzubrechen. Aber Schwarz kann
+sich wohl verteidigen.} Bf8 $1 17. Bb1 g6 {[%csl Yd5,Yg7][%cal Gf8g7,Gf6d5]
+mit Ideen wie Lf8-g7 und Sf6-d5}) 16... Qf4 17. Bg3 Qg4 18. h3 Qh5 {Die Dame
+steht auf h5 sehr gut, um die aggressiven Ideen von Weiß abzuwenden.} *
+

@@ -1,0 +1,57 @@
+[Event "The Complete c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pavasovic-Gambit"]
+[Black "Springerfesselung"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Evgeny Sveshnikov"]
+[PlyCount "41"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} Nf6 {
+Das ist der stärkste Gegenzug von Schwarz.} 3. e5 {Analog der
+Alekhine-Verteidigung lockt Schwarz den Bauern nach e5, um ihn zu schwächen
+und das starke Feld d5 zu besetzen. Er wird den Bauern mit Sb8-c6 und d7-d6
+weiter unter Druck setzen und angreifen. Anders als in der
+Alekhine-Verteidigung kann Weiß nicht gut c3-c4 spielen, denn das wäre ein
+ernsthafter Tempoverlust.} Nd5 {Der Springer kann hier nicht so schnell
+vertrieben werden. Er darf aber auch nicht einfach so toleriert werden.} 4. d4
+{Weiß muss versuchen die Stellung zu öffnen, um den starken Springer auf d5
+zu unterminieren und um sein Zentrum zu stärken.} cxd4 5. cxd4 d6 6. Nf3 Nc6
+7. Bc4 Nb6 8. Bb3 dxe5 9. d5 $1 {Weiß muss dieses Bauernopfer schon bringen.}
+({Nach} 9. dxe5 $2 Qxd1+ 10. Bxd1 {hat Schwarz sein Ziel erreicht und die
+Stellung vereinfacht.}) 9... Na5 {Das ist bestimmt das beste Feld für den
+Springer.} 10. Nc3 {Die Springerfesselung wird durch folgenden Zug eingeleitet}
+Bg4 {Sie ist auch nicht besonders verbreitet, scheint aber natürlich.} 11. Be3
+Nxb3 (11... Z0 12. Bxb6 Qxb6 13. Ba4+) 12. Qxb3 Bxf3 13. gxf3 g6 14. a4 $1 {
+Es ist sehr wichtig, dass der Springer auf b6 belästigt wird.} ({Die
+Alternative von Pavasovic lautet hier} 14. O-O-O Bg7 15. Kb1 O-O 16. Ne4 {
+[%csl Rb6,Re7,Rf7][%cal Gb3g8]} Qc7 ({Hier hätte Saric laut Sveshnikov besser
+} 16... Nc8 {gespielt. Der Springer will auf das starke Blockadefeld d6 ziehen,
+zum Beispiel} 17. Qxb7 Nd6) 17. Rd3 {[%cal Gh1d1,Gd1c1,Gd3c3]} Rfc8 18. d6 exd6
+19. Nxd6 Rf8 20. Rc1 Qe7 21. Bxb6 axb6 22. Ne4 {[%csl Gb3,Rb6,Rb7,Gc1,Gd3,Ge4,
+Rf7,Rg7][%cal Rg7e5]} Rad8 23. Rxd8 Qxd8 24. Rd1 Qc7 25. Rd6 {[%csl Rb6,Gd6]
+[%cal Gd6b6,Gd6d7,Gb3d5]} Rc8 26. a3 b5 27. Qxb5 f5 28. Qd5+ Kh8 29. Rd7 Qc2+
+30. Ka2 h6 (30... fxe4 31. Rd8+) 31. Nd6 {[%csl Gd5,Gd6,Gd7]} Rg8 32. Qf7 e4
+33. Rxb7 Qd2 34. Ne8 {mit weißem Sieg in Pavasovic,D (2598)-Saric,A (2514)
+Nova Gorica SLO 2009}) 14... Qd7 15. d6 $1 {Weiß will einen weiteren Bauern
+opfern, um die zentralen Felder zu besetzen.} ({In der Partie kam eine
+Ungenauigkeit von David Smerdon} 15. a5 $6 Nc8 16. Ne4 Nd6 17. Nc5 Qb5 18.
+Qxb5+ Nxb5 19. Nxb7 a6 20. Bb6 Bh6 21. O-O O-O 22. Kg2 Rfc8 23. Rfe1 f6 24. Nc5
+Kf7 25. Ra4 Bf4 26. Rd1 g5 27. Rb4 Nd4 28. Ne4 Nf5 29. d6 exd6 30. Nxd6+ Nxd6
+31. Rxd6 Ke7 32. Rd1 Rc2 33. Rb3 Rac8 34. Rbd3 R8c6 35. b4 Kf7 36. Bc5 Kg6 37.
+Kg1 h5 38. Rd8 g4 39. fxg4 hxg4 40. R1d6 R6xc5 41. bxc5 e4 42. Rd4 Kf5 43.
+R8d5+ Ke6 44. Rh5 f5 45. Rb4 Rxc5 46. Rxe4+ Be5 47. Rb4 f4 48. Rb6+ Kd5 49. Rb1
+Rxa5 50. Rg5 Ke6 51. Rb6+ Kd5 52. Rb1 Ke6 53. Rb6+ Kd5 54. Rxg4 Ra2 55. Rg5 f3
+56. Rb1 Ke6 57. Re1 Re2 58. Kf1 Rxe1+ 59. Kxe1 Bxh2 60. Ra5 Bd6 61. Rxa6 Kd5
+62. Kd2 Bc5 63. Ra5 Kd4 64. Rxc5 Kxc5 {1-0 (64) Smerdon,D (2461)-Sveshnikov,E 
+(2504) Pardubice 2007}) 15... Nc8 ({Schlecht ist hingegen} 15... exd6 16. a5
+Nc8 17. Nd5 Bg7 18. Rc1 O-O 19. Rc7 Qh3 20. Qxb7) 16. Nd5 Nxd6 17. Qc3 Rc8 18.
+Qxe5 Qf5 19. Qxh8 Qxd5 20. O-O Qxf3 21. Rfc1 {mit gleicher Stellung} *
+

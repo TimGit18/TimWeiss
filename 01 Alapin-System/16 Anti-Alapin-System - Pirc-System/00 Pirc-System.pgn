@@ -1,0 +1,14 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Alapin-System"]
+[Black "Pirc-System"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "21"]
+[SourceVersionDate "2021.09.13"]
+
+{[%evp 0,21,34,13,46,6,24,53,53,45,59,55,88,46,51,45,42,63,71,59,66,53,51,41]} 1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit entgegenzusetzen. Das Pirc-Anti-Alapin startet mit} d6 3. d4 Nf6 $1 {Schwarz wartet mit dem Schlagen auf d4 bis Weiß den Läufer nach d3 bringt, um den Bauern e4 zu verteidigen.} ({Eine bedeutende Anzahl von Partien beginnt mit der Zugumstellung} 3... cxd4 4. cxd4 Nf6 5. Nc3 g6) 4. Bd3 $1 {Das Zentrum zu halten ist viel besser als den Bauern auf c5 zu nehmen.} (4. dxc5 $6 Nc6 $1 5. cxd6 Nxe4 {ist jetzt möglich, da das Damenschach auf a4 nicht mehr geht.}) 4... cxd4 {Mit diesem Schlagen wird die Hauptvariante (nachfolgend das Königsfianchetto) eingeleitet.} ({(a) Das sofortige Fianchetto} 4... g6 {erlaubt die weiße Option} 5. dxc5 dxc5 6. e5 $1 Nd5 7. Be4 {, wonach Weiß sehr gut punktet.}) ({(b) Der Damenspringerzug} 4... Nc6 {erschreckt nicht besonders wegen} 5. Nf3 Bg4 6. d5 $1 {ist eine effektive Antwort.}) ({(c) Der solide Zug ist} 4... e5 5. Nf3 Nc6 6. d5 Ne7 {Schwarz hat die Idee, einen Königsindisch-Aufbau mit dem Königsfianchetto zu wählen.} 7. Bg5 $1) 5. cxd4 g6 {Diese Zugfolge hat sich als Hauptvariante etabliert.} ({Der Zentrumsgegenstoß} 5... e5 {ist hier schlechter als im Zug zuvor} 6. Nf3 Nc6 7. d5 Ne7 {wegen der offenen c-Linie.}) 6. Nc3 Bg7 7. h3 {Dieser Zug bereitet die Entwicklung des Königsspringers nach f3 vor ohne durch die Fesselung des schwarzen Damenläufers behindert zu werden.} O-O 8. Nf3 Nc6 (8... e5 9. dxe5 dxe5 10. O-O Nc6 {transponiert in die Hauptvariante.}) 9. O-O e5 {Schwarz muss das weiße Zentrum unter Druck setzen.} 10. dxe5 {Das ist der einfachste Ansatz. Weiß kann auch versuchen, die Spannung zu halten, aber Schwarz kann einfach ausgleichen.} dxe5 ({Gelegentlich spielt Schwarz auch} 10... Nxe5 11. Nxe5 dxe5 {, aber es ist besser sich noch die Option Sc6-d4 offen zu halten.}) 11. Be3 {Die symmetrische Bauernstruktur legt nahe, dass Schwarz nicht allzu große Schwierigkeiten haben sollte. Allerdings punktet Weiß in der Praxis gut, denn es st nicht einfach eine gute Rolle für den Läufer auf g7 zu finden. Weiß wird Aktivität am Damenflügel entfachen, wo er auf den offenen c- und d-Linien Druck ausübt.} *
+

@@ -1,0 +1,48 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Modernes Fianchetto"]
+[Black "Gefährliche Variante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "39"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. (a) Die wichtigste Alternative bildet das Moderne System,
+das ebenfalls einen Gegenangriff gegen den Bauern e4 darstellt.} Nf6 {[%csl
+Ye4][%cal Rf6e4] Der weiße e-Bauer kann nicht gut verteidigt werden.} 3. e5 {
+Der Vorstoß des e-Bauern bildet die beste weiße Fortsetzung. Weiß erobert
+Raum im Zentrum, und seine Figuren können sich hinter dem Bauern, der früher
+oder später mit d7-d6 angegriffen wird, frei entwickeln.} Nd5 {[%csl Yc4,Yd4]
+[%cal Gd2d4,Gf1c4,Gc4d5] Ähnlich wie in der Alekhine-Verteidigung findet
+Schwarz ein gutes Zentralfeld für den Springer. Weiß muss diesen mit Tempo
+vertreiben und parallel dazu ein gutes Bauernzentrum aufbauern.} 4. d4 cxd4 {
+Eine valide Alternative stellt das Läufergambit mit} 5. Nf3 Nc6 {dar. Weiß
+opfert einen Bauern für Entwicklungsvorsprung.} 6. Bc4 {[%csl Yd5][%cal Gc4d5]
+Weiß greift sofort an und bereitet die kurze Rochade vor.} Nb6 {Durch den
+Rückzug und gleichzeitigen Angriff auf den Läufer gewinnt Schwarz Zeit.} 7.
+Bb3 {Das Moderne Fianchetto mit} g6 {[%csl Yc6,Yd6,Ye5,Yg7][%cal Gf8g7,Rg7e5,
+Rc6e5,Gd7d6,Rd6e5] vermeidet alle Gambitvarianten und erlaubt das
+Zurückschlagen im Zentrum auf d4. Schwarz möchte nach der Entwicklung des
+Königsläufers nach g7 und der Rochade das weiße Zentrum mit d7-d6 angreifen,
+wofür das Königsfianchetto ideal geeignet ist. Gegen gemächliches Spiel
+wirkt der Aufbau überzeugend.} 8. Ng5 $1 {Dieser kritische Zug ist sehr
+gefährlich für Schwarz.} ({Das brave} 8. cxd4 Bg7 {erzeugt überhaupt keine
+Schwierigkeiten für Schwarz nach Folgezügen wie} 9. Nc3 O-O 10. O-O d6 11.
+exd6 Qxd6 {, denn der Läufer auf g7 arbeitet sehr gut gegen den weißen
+Isolani.}) 8... d5 $1 {Dieser thematische Zug ist typisch für Angriffe gegen
+den neuralgischen Punkt f7.} 9. exd6 (9. cxd4 $2 f6 $1 {ist in Ordnung für
+Schwarz.}) 9... e6 10. Qf3 $1 {Das sieht am gefährlichsten aus für Schwarz.}
+{Eine gefährliche Variante entsteht nach} f6 11. Nxe6 Bxe6 12. Bxe6 {und ist
+besser für Weiß, da der Läufer sehr ärgerlich ist.} Bxd6 13. Qh3 f5 14. O-O
+Qf6 15. Re1 Be5 16. cxd4 Nxd4 17. Bb3 O-O-O ({Oder} 17... Nxb3 18. Qxb3 O-O-O
+19. Nd2 Bc7 20. Nf3 f4 21. Bd2 Nd5 22. Rac1 {, wonach der schwarze König
+gefährdeter als der weiße ist.}) 18. Nc3 Kb8 19. Qh6 Rde8 20. Bg5 *
+

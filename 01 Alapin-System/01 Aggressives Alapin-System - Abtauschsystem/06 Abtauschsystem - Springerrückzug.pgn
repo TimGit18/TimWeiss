@@ -1,0 +1,51 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abtauschsystem"]
+[Black "Springerrückzug"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "33"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält einen
+isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden kann.} 3. exd5
+Qxd5 4. d4 cxd4 {Das direkte Schlagen ist eine gebräuchliche Reaktion im
+Alapin-Sizilianisch. Es ist verlockend, den d4-Bauern sofort zu isolieren und
+dann von allen Seiten zu attackieren. Andererseits wird das Feld c3 sofort
+für den weißen Damenspringer zugänglich. Weiß gewinnt etwas Zeit mit dem
+Angriff auf die schwarze Dame.} 5. cxd4 Nc6 6. Nf3 Bg4 {[%csl Rd4,Yf3] Nach
+diesen logischen Zügen hat Schwarz einigen Druck gegen den weißen d-Bauern
+aufgebaut. Weiß muss etwas unternehmen.} 7. Nc3 $1 {Weiß muss den Bauern d4
+nicht mehr verteidigen, sondern geht sofort zum Gegenangriff über.} Bxf3 {
+Damit wird eine forcierte Variante eingeschlagen. Damenrückzüge gelten hier
+als schwächer.} 8. gxf3 $1 Qxd4 9. Qxd4 Nxd4 {[%csl Yc2,Yf3] In dieser
+Stellung hat Schwarz einen Mehrbauern und droht mit Sc2+ und Sxf3+. Doch seine
+unsichere Königsstellung und sein Entwicklungrückstand sprechen für Weiß.}
+10. Nb5 $1 {Die weißen Figuren sind freier und das weiße Läuferpaar in der
+offenen Stellung leicht zu aktivieren. Schwarz hat Probleme bei der
+Entwicklung seines Königsflügels. '|^'} Ne6 {[%csl Rc7] Schwarz verhindert
+die forcierte Variante und schützt das Feld c7. Aber der Rückzug
+verschlimmert die Lage von Schwarz. Der Springer auf e6 behindert die
+Entwicklung des eigenen Königsflügels.} 11. f4 $1 {[%csl Yf5,Yg2][%cal Gf4f5,
+Gf1g2] Dieser Zug verfolgt zwei Ziele. Einerseits droht f4-f5. Andererseits
+wird g2 für den Läufer frei} g6 {Schwarz verhindert f5 und bereitet die
+Läuferentwicklung vor} ({Schwach ist} 11... a6 12. f5 {Das ist logisch. Der
+Abtausch der Springer hilft nur Weiß.} axb5 13. Bxb5+ Kd8 14. fxe6 fxe6 15.
+Be3 Nf6 16. Bb6+ Kc8 17. Rc1+ Kb8 18. O-O Nd5 19. Bd4 Rxa2 20. Bd7 b6 21. Rc8+
+Kb7 22. Be5 {1-0 (22) Kirillov, V-Salata Riga 1964}) 12. Bg2 {[%csl Yb7]} Bh6 {
+[%csl Rf4] Der hartnäckigste Zug von Schwarz bedroht den Bauern f4. Er hat
+sich damit abgefunden, dass er den Damenflügel nicht mehr verteidigen kann.} (
+{(a)} 12... Bg7 13. Be3 Rd8 14. Bxb7 Bxb2 $132) ({(b)} 12... O-O-O 13. Be3 a6
+14. Rc1+ Kb8 15. Ba7+ Ka8 16. Bb6 Re8 (16... Rb8 17. Rc3 Bg7 18. Ra3 Rc8 19.
+Rxa6+ Kb8 20. Ba7+ Ka8 21. Bd4+ Kb8 22. Bb6 bxa6 23. Ba7#) 17. Nc7+ Nxc7 18.
+Rxc7 Rb8 19. O-O Nf6 20. Rfc1 Bh6 21. Rxe7 Bxf4 22. Rc4 Rhe8 23. Ra4 {1-0 (23)
+Rissotti,L-Genro,G Bento Goncalves 2000}) 13. Be3 {Nimmt den Damenflügel
+unter Beschuss} Nf6 {Schwarz benötigt eine sichere Zuflucht für seinen König
+} 14. Bxb7 Rb8 15. Bc6+ Kf8 16. Bxa7 Rc8 17. Bf3 {Weiß hat die besseren
+Figuren und zwei Freibauern auf dem Damenflügel.} *
+

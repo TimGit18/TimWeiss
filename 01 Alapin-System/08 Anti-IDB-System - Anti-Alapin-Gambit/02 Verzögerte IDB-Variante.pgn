@@ -1,0 +1,45 @@
+[Event "Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Alapin-Gambit"]
+[Black "Verzögerte IDB-Variante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Daniel King"]
+[PlyCount "22"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält zwar einen
+isolierten Damenbauern, der mit Sb8-c6 und Lc8-g4 (nach Deckung von Sg1-f3)
+angegriffen werden kann. Dafür erhält er Raum im Zentrum und eine bequeme
+Kontrolle über die Zentrumsfelder e5 und c5. Das ist die aggressivste
+schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß
+erhält einen isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden
+kann.} 3. exd5 {Weiß muss im Zentrum schlagen, um das starke schwarze
+Bauernzentrum zu zerstören. Er lockt eine schwarze Figur (meistens die Dame)
+in das Zentrum, die dann von den weißen Leichtfiguren angegriffen werden kann.
+} Nf6 {Dieser Zug ist ein interessantes Anti-Alapin-Gambit. Der Zug wird von
+Evgeny Sveshnikov - obwohl selbst angewandt - kaum erwähnt. Auch John Emms
+gibt nur eine Variante an. Tatsächlich ist Schwarz bereit, einen Bauern im
+Zentrum für offene Linien, Gegenspiel und schnelle Entwicklung zu opfern.
+Weiß sollte in diesem Fall nicht auf Bauerngewinn spielen, sondern versuchen,
+sich schnell zu entwickeln und die Felder im Zentrum unter Kontrolle zu halten.
+Das ist der konsistente Zug von Weiß. Er besetzt das Zentrum, öffnet Linie
+und greift den Bauern auf c5 an.} 4. d4 Nxd5 $1 {Das ist eine sehr gute Art
+des Zurücknehmens. Der Springer auf d5 kann nicht so leicht vertrieben werden
+und nimmt eine dominante Stellung im Zentrum ein.} 5. Nf3 e6 6. Bd3 {Die
+Verzögerte IDB-Variante entsteht nach} Nc6 {Schwarz wartet noch etwas mit dem
+Schlagen auf d4, er möchte erst noch einmal die Stellung seiner Figuren
+verbessern.} 7. O-O Be7 8. Re1 O-O 9. a3 {Dieser Zug ist immer gut spielbar in
+IDB-Systemen. Das Feld b4 wird unter Kontrolle genommen, so dass der Läufer
+auf d3 nicht mehr angegriffen werden kann. Außerdem wird b2-b4 möglich.} cxd4
+(9... b6 {ist eine andere interessante Option.} 10. Qe2 Bb7 11. dxc5 Bxc5 12.
+Bg5 Be7 13. Qe4 g6 {Weiß hat seine Figuren optimal aufgestellt. Es muss noch
+der Springer von b1 in das Spiel gebracht werden.}) 10. cxd4 Bf6 11. Nc3 {
+Diese Variante ist total spielbar für Schwarz.} Nxc3 {Das ist die
+Hauptfortsetzung aus über 60 Partien. Alle anderen Züge punkten deutlich
+schlechter für Schwarz.} *
+

@@ -1,0 +1,14 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pavasovic-Gambit"]
+[Black "Anti-Pavasovic-Gambit"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "21"]
+[EventDate "2010.04.02"]
+
+{[%evp 0,18,21,30,59,6,15,28,28,33,33,30,30,36,44,35,18,9,18,32,42]} 1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} Nf6 {Das ist der stärkste Gegenzug von Schwarz.} 3. e5 {Analog der Alekhine-Verteidigung lockt Schwarz den Bauern nach e5, um ihn zu schwächen und das starke Feld d5 zu besetzen. Er wird den Bauern mit Sb8-c6 und d7-d6 weiter unter Druck setzen und angreifen. Anders als in der Alekhine-Verteidigung kann Weiß nicht gut c3-c4 spielen, denn das wäre ein ernsthafter Tempoverlust.} Nd5 {Der Springer kann hier nicht so schnell vertrieben werden. Er darf aber auch nicht einfach so toleriert werden.} 4. d4 {Weiß muss versuchen die Stellung zu öffnen, um den starken Springer auf d5 zu unterminieren und um sein Zentrum zu stärken.} cxd4 5. cxd4 e6 {Schwarz will sich nicht auf die gefährlichen Varianten des Pavasovic-Gambits einlassen, die nach d7-d6 entstehen, sondern strebt ein eher positionelleres Spiel an.} 6. Nf3 d6 {Trotzdem muss Schwarz das weiße Zentrum befragen.} 7. Bc4 {Ein Vorteil dieses Zugs ist, dass sich Schwarz nicht so langsam entwickeln kann.} ({Natürlich ist die Diagonale b1-h7 die ideale für den weißen Läufer, aber nach} 7. Bd3 {ist} Nb4 $1 {sehr ärgerlich. Weiß muss hier schon Konzessionen machen, zum Beispiel} 8. Bc4 dxe5 9. Nxe5 Qxd4 $1 10. Qxd4 Nc2+ 11. Kd1 Nxd4 {mit Mehrbauer und besserer Stellung für Schwarz.}) 7... Nc6 ({(a) Die Rückzugsvariante beginnt mit} 7... Nb6) ({(b) Das langsame} 7... Bd7 {sieht nach} 8. Bxd5 exd5 9. Nc3 {etwas wackelig aus.}) 8. O-O Be7 ({Die typische IDB-Stellung erreicht man nach} 8... Nb6 9. Bd3 Nb4 10. Be2) 9. Qe2 {[%csl Yd1,Yd3,Ye4,Ye5,Yg4][%cal Gf1d1,Ge2e4,Ge4g4,Gc4d3,Gd3e4] Das ist ein multifunktionaler Zug. Weiß deckt den Bauern e5, räumt d1 für den Turm und ermöglicht De2-e4 mit einer Läufer-Dame-Batterie oder De4-g4.} O-O {Das ist die Ausgangsstellung des Anti-Pavasovic-Gambits.} 10. Nc3 Nxc3 11. bxc3 *
+

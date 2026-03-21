@@ -1,0 +1,14 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abtauschsystem"]
+[Black "Damenflügelrückzug"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "33"]
+[EventDate "2010.04.02"]
+
+{[%evp 0,22,19,38,40,6,0,-23,-22,-5,59,37,55,46,52,79,133,127,113,103,131,121,196,166,265]} 1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält einen isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden kann.} 3. exd5 Qxd5 4. d4 cxd4 {Das direkte Schlagen ist eine gebräuchliche Reaktion im Alapin-Sizilianisch. Es ist verlockend, den d4-Bauern sofort zu isolieren und dann von allen Seiten zu attackieren. Andererseits wird das Feld c3 sofort für den weißen Damenspringer zugänglich. Weiß gewinnt etwas Zeit mit dem Angriff auf die schwarze Dame.} 5. cxd4 Nc6 6. Nf3 Bg4 {[%csl Rd4,Yf3] Nach diesen logischen Zügen hat Schwarz einigen Druck gegen den weißen d-Bauern aufgebaut. Weiß muss etwas unternehmen.} 7. Nc3 $1 {Weiß muss den Bauern d4 nicht mehr verteidigen, sondern geht sofort zum Gegenangriff über.} Qa5 $2 {Das Problem bei diesen Damenzügen ist immer, dass Weiß mit dem folgenden Vorstoß die Initiative erlangen kann} 8. d5 {Wenn der Springer zieht, wird die schwarze Entwicklung erschwert. Außerdem droht immer wieder Dd1-a4+} Ne5 {[%csl Yf3][%cal Re5f3,Rg4f3] Der thematische Ausweichzug, der den gefesselten Springer f3 attackiert.} ({Falls Schwarz den d-Bauern mit} 8... O-O-O {fesselt, so kann Weiß mit} 9. Bd2 {die Drohung gegen den Springer c6 erneuern und einen verdeckten Abzugsangriff auf die schwarze Dame vorbereiten. Schwarz ist hier bereits in Schwierigkeiten.} Nb4 10. a3 Nxd5 11. Na4 $1 {Nach} Qc7 {gewinnt} 12. Rc1 {die Dame}) 9. Bb5+ {Das Schach ist einfach und stark} Nd7 (9... Bd7 10. Bxd7+ Nxd7 11. O-O {ergibt eine Traumstellung für Weiß. Er hat deutlichen Entwicklungsvorsprung und Schwarz muss sich erst organisieren. Die Rochade auf dem Königsflügel zu arrangieren bedeutet viel Arbeit} Ngf6 12. Re1 g6 13. Bf4 Bg7 14. Bd6) 10. Qb3 {Weiß droht Se5} Ngf6 (10... Bxf3 {verliert ganz einfach nach} 11. Bxd7+ Kxd7 12. Qxb7+) 11. Ne5 Rd8 (11... a6 12. Bxd7+ Bxd7 13. Qxb7 {gewinnt einen Bauern für Weiß und noch mehr nach} Rd8 14. b4) 12. O-O Qc7 13. Bf4 Qc8 14. Rac1 Qa8 15. Nxg4 Nxg4 16. Ne4 a6 17. Rfe1 {1-0 Pavasovic,D (2544)-Koemetter,R Jacques Lemans op 19th St Veit 2000 (1)} *
+

@@ -1,0 +1,32 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alternatives Anti-Alapin"]
+[Black "Damenfianchetto"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "29"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das Königsfianchetto-Anti-Alapin ist das wichtigste
+Alternative Anti-Alapin-System und beginnt mit} {Das
+Damenfianchetto-Anti-Alapin ist trickreich nach} b6 3. d4 Bb7 4. Bd3 Nf6 $5 {
+Weiß muss sich nur merken, dass er es vermeiden muss, den Königsläufer
+gegen einen schwarzen Springer abzutauschen.} 5. Nd2 $1 (5. Qe2 $6 cxd4 6. cxd4
+Nc6 7. Nf3 Nb4 $1 {ist schlecht für Weiß.}) 5... cxd4 6. cxd4 Nc6 7. Ne2 $1 {
+[%csl Ya6,Yb1,Yb4,Yd3][%cal Gc6b4,Rb4d3,Gb7a6,Ga6f1,Gd3b1] Danach ist der
+Angriff auf den weißen Königsläufer weniger effektiv, denn Weiß hat die
+Diagonale a6-f1 blockiert.} (7. Ngf3 $5 Nb4 8. Bb1 Ba6 {ist auch wieder gut
+für Schwarz.}) 7... Nb4 ({Eine andere Option ist} 7... e5 8. d5 Nb4 9. Bb1 Bc5
+10. O-O a5 11. a3 Na6 12. Nf3) 8. Bb1 Ba6 9. Nf3 Qc7 ({Oder} 9... Rc8 10. a3
+Bxe2 11. Kxe2 Nc6 12. d5 {und Schwarz wird zurückgetrieben.}) 10. Nc3 e6 11.
+a3 Nc6 12. Bg5 Nh5 (12... Be7 {ist wahrscheinlich stärker, aber} 13. Bd3 {
+noch besser für Weiß}) 13. d5 Na5 14. e5 {droht mit g4} h6 15. Be3 *
+

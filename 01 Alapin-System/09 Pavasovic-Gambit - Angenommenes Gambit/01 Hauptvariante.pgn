@@ -1,0 +1,71 @@
+[Event "CBM 088"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pavasovic-Gambit"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Dorian Rogozenko"]
+[PlyCount "107"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} Nf6 {
+Das ist der stärkste Gegenzug von Schwarz.} 3. e5 {Analog der
+Alekhine-Verteidigung lockt Schwarz den Bauern nach e5, um ihn zu schwächen
+und das starke Feld d5 zu besetzen. Er wird den Bauern mit Sb8-c6 und d7-d6
+weiter unter Druck setzen und angreifen. Anders als in der
+Alekhine-Verteidigung kann Weiß nicht gut c3-c4 spielen, denn das wäre ein
+ernsthafter Tempoverlust.} Nd5 {Der Springer kann hier nicht so schnell
+vertrieben werden. Er darf aber auch nicht einfach so toleriert werden.} 4. d4
+{Weiß muss versuchen die Stellung zu öffnen, um den starken Springer auf d5
+zu unterminieren und um sein Zentrum zu stärken.} cxd4 5. cxd4 d6 6. Nf3 Nc6
+7. Bc4 Nb6 8. Bb3 dxe5 9. d5 $1 {Weiß muss dieses Bauernopfer schon bringen.}
+Na5 {Das ist bestimmt das beste Feld für den Springer.} 10. Nc3 Nxb3 {Das ist
+der gebräuchlichste Zug in dieser Stellung.} 11. Qxb3 e6 {Schwarz will
+natürlich, dass Weiß diesen Bauern schlägt. Dann könnte er seinen
+Damenläufer entwickeln und die Dame von b3 vertreiben, wo sie sehr aktiv
+steht.} 12. Nxe5 exd5 13. Be3 Bd6 14. Qb5+ $1 Kf8 $1 {Das ist der beste
+schwarze Verteidigungszug.} 15. Nf3 {Hier würde die lange Rochade Schwarz
+Gegenspiel einräumen. Weiß sollte kurz rochieren.} Be6 {Dies ist der
+häufigste Zug und bildet die Hauptvariante.} 16. O-O {Dieses Tabiya bildet
+die Ausgangsstellung für die Hauptvariante im Pavasovic-Gambit.} Nc4 ({
+(a) Rogozenko betrachtet auch die Alternative} 16... h6 17. Rfd1 Kg8 18. a4 Kh7
+19. a5 Nc8 20. Nxd5 Qd7 21. Qd3+ Bf5 22. Qc4 Qe6 23. Nd4 Qg6 24. Nxf5 Qxf5 25.
+Nc7 Rb8 26. Rd5 Qg6 27. Rad1 a6 28. h4 Rd8 29. h5 Qf6 30. Qe4+ Kg8 31. Ne8 Qe6
+32. Nxd6 Rxd6 33. Qxe6 Rxe6 34. Rd8+ Kh7 35. Rf8 {1-0 Pavasovic,D-Tratar,M/
+Graz 2001}) ({(b) Sveshnikov betrachtet nur die Variante} 16... f6 17. Rfd1 Kf7
+18. a4 Qd7 19. Bxb6 axb6 20. Qxd7+ Bxd7 21. Rxd5 Ke7 22. Rad1 {aus der Partie
+Fressinet,L -Nataf,I Cergy Pontoise 2003 (1-0)}) 17. Qxb7 Qc8 $1 {Emms gibt
+dem Zug sogar ein Rufzeichen, da er wohl ausgleicht.} 18. Qxc8+ Rxc8 {Das
+Endspiel sieht ausgeglichen aus. Die weiße Damenflügel-Mehrheit kann durch
+den schwarzen König neutralisiert werden, der sehr schnell zentralisiert
+werden kann.} 19. Bd4 $5 {Verhindert 19...Ke7.} (19. Bxa7 Nxb2 {/\ Ke7=}) 19...
+Bc5 $1 ({Nach} 19... Nxb2 20. Nb5 Nc4 21. Nxa7 {hat Schwarz immer noch
+Probleme, seinen Königsflügel zu entwickeln.}) 20. Bxc5+ (20. Rac1 $5) 20...
+Rxc5 21. Na4 (21. b4 Rc8 22. Rfc1 Ke7 $14 {/=.}) 21... Rc8 22. b3 $6 Na3 23.
+Nd4 (23. Rac1 Nc2 $1) 23... Ke7 $2 {Das ist wohl der entscheidende Fehler.} ({
+Es musste geschehen} 23... Nc2 {In der Partie verbleibt der Springer auf a3.}
+24. Nxc2 Rxc2 25. Rfc1 Rxc1+ 26. Rxc1 Ke7 {Wenn jetzt Kd6 und Tb8-b4 folgt,
+steht Schwarz gut da. Wenn Weiß den Bauern auf a7 nimmt, erhält Schwarz ein
+starkes Gegenspiel.} 27. Rc7+ Kd6 28. Rxa7 Rc8 $132) 24. Rac1 {[%csl Ra3]} Kd6
+25. f3 Rxc1 {Das aufkommende Endspiel mag verloren sein, aber es gibt keinen
+sinnvollen Plan für Schwarz. Weiß hingegen zentralisiert seinen König,
+spielt Sc3 und Tfd1.} (25... Bd7 26. Nc3 Rc5 27. Rfd1 Rhc8 28. Nde2 $16 {
+[%csl Ra3,Rd5,Rd6]}) 26. Rxc1 Rc8 27. Rxc8 Bxc8 28. Kf2 {Schwarz hat bereits
+eine schwierige Stellung. Das Problem ist, dass Schwarz seinen König nicht in
+das Spiel bringen kann.} Bd7 29. Nc3 h5 $6 (29... Kc5 $142) 30. h4 f6 31. Ke3
+Kc5 32. Nce2 g5 $2 (32... Nb5 33. Nxb5 Bxb5 34. Nd4 (34. Nf4 d4+ 35. Kd2 g5 {
+gibt Schwarz einige Chancen auf Initiative und Figurenaktivität.}) 34... Bd7
+35. a3 a5 36. Kd3 g5 37. g3 $16) 33. g4 $1 {Typical.} gxh4 (33... hxg4 34. h5
+gxf3 35. h6 fxe2 36. Kxe2 Kxd4 37. h7 $18) 34. gxh5 Be8 35. h6 Bg6 36. Ne6+ Kd6
+37. Nf8 Bc2 38. Nf4 h3 39. Kf2 d4 40. Kg3 d3 41. h7 d2 42. h8=Q d1=Q 43. Qxf6+
+Kc5 44. Qe7+ Kb5 45. Qb7+ Ka5 46. Qxa7+ Kb4 47. Qe7+ Kb5 48. Nxh3 Nb1 {Endlich
+kommt der Springer frei, aber Schwarz wird bereits matt gesetzt.} 49. Nd7 Qd5
+50. Nf4 Qf5 51. Ne5 Qc8 52. a4+ Ka6 53. Qd6+ Kb7 54. Nd5 {mit 1-0 in Pavasovic,
+D (2547)-Jelen,I (2374) Ljubljana 2002 ()} *
+

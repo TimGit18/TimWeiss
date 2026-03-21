@@ -1,0 +1,52 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Pavasovic-Gambit"]
+[Black "Rückzugsvariante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "37"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} Nf6 {
+Das ist der stärkste Gegenzug von Schwarz.} 3. e5 {Analog der
+Alekhine-Verteidigung lockt Schwarz den Bauern nach e5, um ihn zu schwächen
+und das starke Feld d5 zu besetzen. Er wird den Bauern mit Sb8-c6 und d7-d6
+weiter unter Druck setzen und angreifen. Anders als in der
+Alekhine-Verteidigung kann Weiß nicht gut c3-c4 spielen, denn das wäre ein
+ernsthafter Tempoverlust.} Nd5 {Der Springer kann hier nicht so schnell
+vertrieben werden. Er darf aber auch nicht einfach so toleriert werden.} 4. d4
+{Weiß muss versuchen die Stellung zu öffnen, um den starken Springer auf d5
+zu unterminieren und um sein Zentrum zu stärken.} cxd4 5. cxd4 e6 {Schwarz
+will sich nicht auf die gefährlichen Varianten des Pavasovic-Gambits
+einlassen, die nach d7-d6 entstehen, sondern strebt ein eher positionelleres
+Spiel an.} 6. Nf3 d6 {Trotzdem muss Schwarz das weiße Zentrum befragen.} 7.
+Bc4 {Ein Vorteil dieses Zugs ist, dass sich Schwarz nicht so langsam
+entwickeln kann.} ({Natürlich ist die Diagonale b1-h7 die ideale für den
+weißen Läufer, aber nach} 7. Bd3 {ist} Nb4 $1 {sehr ärgerlich. Weiß muss
+hier schon Konzessionen machen, zum Beispiel} 8. Bc4 dxe5 9. Nxe5 Qxd4 $1 10.
+Qxd4 Nc2+ 11. Kd1 Nxd4 {mit Mehrbauer und besserer Stellung für Schwarz.}) {
+Die Rückzugsvariante beginnt mit} 7... Nb6 {Schwarz strebt nach einer
+baldigen Auflösung in der Bauernstruktur. Der Abtausch auf e5 kommt sowieso,
+egal ob der der Läufer nach d3 oder nach b3 geht.} 8. Bd3 dxe5 (8... Nc6 {
+transponiert in die IDB-Stellung.}) 9. dxe5 N8d7 $1 {[%csl Yc5,Yd3][%cal Gd7c5,
+Rc5d3] Schwarz möchte Sd7-c5 spielen, dann die Damen tauschen und den
+Damenflügel mit Lc8-d7 und Ta8-c8 entwickeln.} (9... Nc6 {platziert den
+Springer auf einem schlechteren Feld.} 10. O-O Nb4 11. Be4 Qxd1 12. Rxd1 {
+ist eine vorteilhafte Stellung für Weiß.}) 10. Qe2 {Weiß vermeidet den
+Damentausch.} ({Sein Vorteil nach} 10. O-O Nc5 11. Bc2 Qxd1 12. Rxd1 Bd7 13.
+Nc3 Rc8 {ist nur ganz klein.}) 10... Nc5 11. Bc2 Nd5 {Schwarz plant eine
+beschleunigte Entwicklung des Damenflügels, aber möchte die weiße
+Springerentwicklung unterbinden.} (11... Bd7 12. Nc3 {ist nämlich gut für
+Weiß.}) 12. O-O Bd7 13. Rd1 (13. Nc3 Nxc3 14. bxc3 Be7 15. Rd1 {ist auch
+möglich. Für die Bauernschwäche auf c3 hat Weiß Kompensation durch aktives
+Figurenspiel.}) 13... Be7 14. Nbd2 O-O 15. Ne4 Rc8 16. Bg5 Nxe4 17. Qxe4 g6 {
+Hier kann man spielen} 18. Bh6 Re8 19. Bb3 {mit einem soliden Vorteil für
+Weiß} *
+

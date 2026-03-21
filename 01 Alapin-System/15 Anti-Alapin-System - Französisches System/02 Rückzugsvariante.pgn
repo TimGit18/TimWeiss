@@ -1,0 +1,43 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Französisches Anti-Alapin"]
+[Black "Rückzugsvariante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "39"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das Französische Anti-Alapin-System entsteht nach} e6 3. d4
+d5 {Schwarz sollte hier nicht zu früh auf d4 schlagen, denn es würde das
+Feld c3 für den Springer räumen.} ({Würde Schwarz} 3... cxd4 4. cxd4 d5 {
+spielen, dann erhielte Weiß nach} 5. e5 {[%csl Yc3][%cal Gb1c3] eine sehr
+gute Version der Französischen Vorstoßvariante, denn Schwarz hat übermütig
+getauscht und der weiße Damenspringer kann jetzt nach c3.}) 4. exd5 {[%cal
+Gd8d5]} exd5 {Diese Stellung kann in eine Französische Tarrasch-Position
+transponiert werden.} (4... Qxd5 {würde wieder in die Klassischen Systeme des
+Alapin-Systems münden.}) 5. Nf3 {[%csl Yd4][%cal Gf3d4] Das ist hier am
+besten, denn Weiß will am Ende eines Massentausches einen Springer auf d4
+behalten.} Nc6 {Das ist der gebräuchlichste Zug, doch Schwarz hat auch
+Alternativen.} 6. Bb5 {Der Zug entwickelt den Läufer, bereitet die kurze
+Rochade vor und nimmt etwas den Druck von d4.} Bd6 {Weiß sollte auf diesen
+Zug warten, bevor er auf c5 schlägt.} 7. O-O Nge7 {Schwarz vermeidet die
+ärgerliche Fesselung auf g5.} 8. dxc5 Bxc5 9. Nbd2 O-O 10. Nb3 {Dies ist die
+Ausgangsstellungs des Französischen Anti-Alapin-Systems, die auch über die
+Französische Tarrasch-Verteidigung erreicht werden kann. Schwarz kann den
+Läufer entweder nach b6 oder wieder nach d6 zurückziehen. Dieser Rückzug
+kommt am häufigsten vor.} {Der andere Rückzug ist} Bd6 11. Bd3 {vorbeugt
+Lc8-g4 wegen des Scheinopfers Ld2xh7+.} h6 {Nun ist Lc8-g4 wieder möglich.
+Daher folgt} 12. h3 Nf5 (12... Bc7 13. Re1 Qd6 {wird von} 14. Be3 {gekontert
+mit der Absicht Le3-c5.}) 13. Re1 Qf6 14. Bc2 $1 {Wiederum plant Weiß die
+Dame-Läufer-Batterie.} Rd8 15. Qd3 g6 {In dieser Stellung hat Weiß
+verschiedene Möglichkeiten.} 16. Nh2 {Diese Idee stammt von Timofeev.} Bxh2+
+17. Kxh2 d4 18. Bf4 b6 19. Nd2 Nd6 20. Qg3 *
+

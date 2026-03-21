@@ -1,0 +1,34 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Französisches Anti-Alapin"]
+[Black "Natürliche Fortsetzung"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "17"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das Französische Anti-Alapin-System entsteht nach} e6 3. d4
+d5 {Schwarz sollte hier nicht zu früh auf d4 schlagen, denn es würde das
+Feld c3 für den Springer räumen.} ({Würde Schwarz} 3... cxd4 4. cxd4 d5 {
+spielen, dann erhielte Weiß nach} 5. e5 {[%csl Yc3][%cal Gb1c3] eine sehr
+gute Version der Französischen Vorstoßvariante, denn Schwarz hat übermütig
+getauscht und der weiße Damenspringer kann jetzt nach c3.}) 4. exd5 {[%cal
+Gd8d5]} exd5 {Diese Stellung kann in eine Französische Tarrasch-Position
+transponiert werden.} (4... Qxd5 {würde wieder in die Klassischen Systeme des
+Alapin-Systems münden.}) 5. Nf3 {[%csl Yd4][%cal Gf3d4] Das ist hier am
+besten, denn Weiß will am Ende eines Massentausches einen Springer auf d4
+behalten.} {Eine natürliche Fortsetzung ist} Nf6 {, jedoch bevorzugt Schwarz
+normalerweise einen Aufbau mit Lf8-d6 und Sg8-e7, um mögliche Probleme nach
+der Fesselung durch Lc1-g5 zu vermeiden. Daher ist die logische Antwort hier}
+6. Bg5 $1 Be7 ({Nach} 6... Qb6 {folgt} 7. Bxf6 Qxb2 8. Nbd2 gxf6 9. Rb1 Qxc3
+10. Bb5+ Nc6 11. O-O {und ist ein vielversprechendes Gambit für Weiß.}) 7.
+dxc5 Bxc5 8. Bb5+ Nc6 9. O-O {transponiert in eine wohlbekannte Stellung.} *
+

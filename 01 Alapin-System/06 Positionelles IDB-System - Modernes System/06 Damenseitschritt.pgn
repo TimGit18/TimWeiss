@@ -1,0 +1,55 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Modernes System"]
+[Black "Damenseitschritt"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "25"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält zwar einen
+isolierten Damenbauern, der mit Sb8-c6 und Lc8-g4 (nach Deckung von Sg1-f3)
+angegriffen werden kann. Dafür erhält er Raum im Zentrum und eine bequeme
+Kontrolle über die Zentrumsfelder e5 und c5. Das ist die aggressivste
+schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß
+erhält einen isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden
+kann.} 3. exd5 {Weiß muss im Zentrum schlagen, um das starke schwarze
+Bauernzentrum zu zerstören. Er lockt eine schwarze Figur (meistens die Dame)
+in das Zentrum, die dann von den weißen Leichtfiguren angegriffen werden kann.
+} Qxd5 {[%csl Yd3,Yd4,Yd5,Ye4,Yf3,Yg2][%cal Rd5g2,Rd5d2] Dieser Zug ist ganz
+im Sinne des schwarzen Plans. Schwarz platziert die Dame auf einem zentralen
+Feld, auf dem sie eine maximale Kontrolle über die weißen Felder im Zentrum
+ausübt. Außerdem kann die schwarze Dame im Moment nicht vertrieben werden
+und übt einen gewissen Druck auf den zu erwartenden Bauernvorstoß d2-d4 aus.
+Schwarz hat jetzt hier die drei grundsätzlichen Pläne zur Auswahl: (1) Er
+setzt wie oben beschrieben das weiße Zentrum mit seinen Figuren unter Druck. 
+(2) Er versucht, dass weiße Zentrum mit dem thematischen Gegenstoß e7-e5
+aufzulösen, was allerdings sehr präzises Spiel erfordert. (3) Er versucht
+das weiße Zentrum direkt aufzulösen und nimmt dabei einen forcierten
+Figurenabtausch in Kauf.} 4. d4 {Weiß besetzt sofort das Zentrum mit seinem
+Damenbauern. Er hat keine Angst vor der Isolierung dieses Bauern, weil sie
+seinen Figuren (den Läufern und dem Damenspringer) gute Felder für die
+beschleunigte Entwicklung gibt.} Nf6 {Dieser Zug ist die gebräuchlichste
+Fortsetzung in dieser Stellung, denn er ist sehr flexibel und kann zu vielen
+verschiedenen Systemen führen. Anders als in den Stellungen, in denen Schwarz
+zunächst Sb8-c6 zieht, greift Schwarz nicht direkt den d-Bauern an.
+Andererseits hat Schwarz auch schon einen Schritt weiter zur kurzen Rochade
+gemacht. Und ohne den Springer auf c6 hat Schwarz weniger Bedenken über den
+weißen Vorstoß c3-c4 und d4-d5. Das ist ein wichtiger Punkt, wie man sehen
+wird.} 5. Nf3 {Gelegentlich versucht Weiß den Springerzug und die
+nachfolgende Fesselung zu vermeiden, aber das führt zu keinem Erfolg. Schwarz
+kann meistens ausgleichen.} e6 {Diese moderne Fortsetzung ist sehr beliebt bei
+Schwarz. Denn sie erlaubt es den Schwarzspielern, direkt traditionelle
+IDB-Stellungen zu spielen und vermeidet viele der scharfen Stellungen, wenn
+Weiß auf c5 nimmt.} 6. Be3 cxd4 7. cxd4 Nc6 8. Nc3 {Der Damenseitschritt
+erfolgt mit} Qa5 {Das macht hier allerdings weniger Sinn als in den Varianten
+mit Lc8-g4. Es kann folgen} 9. Bd3 Be7 10. O-O O-O 11. a3 {Jetzt muss Schwarz
+aufpassen wie er seinen Damenläufer entwickelt.} b6 $2 {verliert eine Figur
+nach} (11... a6 {ist der korrekte Zug.}) 12. Bb5 Bb7 13. b4 {und Schwarz muss
+auf b4 opfern.} *
+

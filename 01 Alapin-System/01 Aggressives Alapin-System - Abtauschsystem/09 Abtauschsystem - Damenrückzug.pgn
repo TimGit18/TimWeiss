@@ -1,0 +1,58 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abtauschsystem"]
+[Black "Damenrückzug"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "21"]
+[EventDate "2010.04.02"]
+[SourceDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} d5 {
+Das ist die aggressivste schwarze Antwort. Der Zug zwingt Weiß sofort, sich
+zu entscheiden. Er ist dadurch gerechtfertigt, dass Schwarz sofort seinen
+Anspruch auf das Zentrum geltend macht und die schwarze Dame nicht auf d5
+durch den weißen Damenspringer angegriffen werden kann. Weiß erhält in der
+Folge einen isolierten Damenbauern auf d4, der mit Dame, Damenspringer und
+Damenläufer angegriffen werden kann. Das ist die aggressivste schwarze
+Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält einen
+isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden kann.} 3. exd5 {
+Weiß muss und will diesen Bauern schlagen. Er lockt die schwarze Dame in das
+Zentrum. Hier steht sie sehr aktiv, ist aber auch angreifbar.} Qxd5 {Für den
+Augenblick macht die schwarze Stellung einen guten Eindruck. Die schwarze Dame
+kontrolliert die Zentralfelder und der Bauer auf c5 reduziert das weiße
+Bauernzentrum auf d4.} 4. d4 {Dieser Zug ist der programmatische Vorstoß,
+denn Weiß erobert sich auf Kosten eines isolierten Damenbauern Raum und und
+öffnet Linien und Diagonalen für seine Figuren.} cxd4 {Das direkte Schlagen
+ist eine gebräuchliche Reaktion in dem Alapin-System der Sizilianischen
+Verteidigung, aber unter Umständen verfrüht. Es ist verlockend, den
+Damenbauern sofort zu isolieren und dann von allen Seiten zu attackieren.
+Andererseits wird das Feld c3 sofort für den weißen Damenspringer
+zugänglich. Weiß gewinnt Zeit mit dem Angriff auf die schwarze Dame und
+beschleunigt seine Entwicklung. Das direkte Schlagen ist eine gebräuchliche
+Reaktion im Alapin-Sizilianisch. Es ist verlockend, den d4-Bauern sofort zu
+isolieren und dann von allen Seiten zu attackieren. Andererseits wird das Feld
+c3 sofort für den weißen Damenspringer zugänglich. Weiß gewinnt etwas Zeit
+mit dem Angriff auf die schwarze Dame.} 5. cxd4 {Natürlich schlägt Weiß
+nicht mit der Dame, sondern behält sein Angriffspotential auf dem Brett. Der
+Bauer auf d4 ist zwar isoliert, aber er beherrscht eine Menge Raum im Zentrum}
+Nc6 {[%csl Yd4][%cal Rc6d4,Rd5d4] Schwarz verbindet eine schnelle Entiwicklung
+seiner Leichtfiguren mit einem Angriff auf den geschwächten Damenbauern} 6.
+Nf3 {Weiß fährt mit seiner Entwicklung fort und verteidigt den nominell
+schwachen Damenbauern.} Bg4 {[%csl Yd4,Yf3,Yg4][%cal Gf3d4,Rg4f3] Nach diesen
+logischen Zügen hat Schwarz einigen Druck gegen den weißen d-Bauern
+aufgebaut. Weiß muss etwas unternehmen.} 7. Nc3 $1 {Weiß muss den Bauern d4
+nicht mehr verteidigen, sondern geht sofort zum Gegenangriff über.} {Der
+Damenrückzug} Qd8 {wird nicht empfohlen. Das Problem bei diesen Damenzügen
+ist immer, dass Weiß mit dem folgenden Vorstoß die Initiative erlangen kann}
+8. d5 {Nun geht ja die große Rochade bereits nicht mehr. Der folgende
+plausible Zug ist aber ein taktischer Irrtum} Ne5 $4 9. Nxe5 Bxd1 10. Bb5+ Qd7
+11. Bxd7+ *
+

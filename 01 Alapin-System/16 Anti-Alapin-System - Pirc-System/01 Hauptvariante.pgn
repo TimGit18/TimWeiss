@@ -1,0 +1,55 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pirc-Anti-Alapin"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "37"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das Pirc-Anti-Alapin startet mit} d6 3. d4 Nf6 $1 {Schwarz
+wartet mit dem Schlagen auf d4 bis Weiß den Läufer nach d3 bringt, um den
+Bauern e4 zu verteidigen.} ({Eine bedeutende Anzahl von Partien beginnt mit
+der Zugumstellung} 3... cxd4 4. cxd4 Nf6 5. Nc3 g6) 4. Bd3 $1 {Das Zentrum zu
+halten ist viel besser als den Bauern auf c5 zu nehmen.} cxd4 {Mit diesem
+Schlagen wird die Hauptvariante (nachfolgend das Königsfianchetto)
+eingeleitet.} 5. cxd4 g6 {Diese Zugfolge hat sich als Hauptvariante etabliert.}
+6. Nc3 Bg7 7. h3 {Dieser Zug bereitet die Entwicklung des Königsspringers
+nach f3 vor ohne durch die Fesselung des schwarzen Damenläufers behindert zu
+werden.} O-O 8. Nf3 Nc6 9. O-O e5 {Schwarz muss das weiße Zentrum unter Druck
+setzen.} 10. dxe5 {Das ist der einfachste Ansatz. Weiß kann auch versuchen,
+die Spannung zu halten, aber Schwarz kann einfach ausgleichen.} dxe5 11. Be3 {
+Die symmetrische Bauernstruktur legt nahe, dass Schwarz nicht allzu große
+Schwierigkeiten haben sollte. Allerdings punktet Weiß in der Praxis gut, denn
+es st nicht einfach eine gute Rolle für den Läufer auf g7 zu finden. Weiß
+wird Aktivität am Damenflügel entfachen, wo er auf den offenen c- und
+d-Linien Druck ausübt.} Be6 {wird entgegnet durch} ({(a) Die beste Idee für
+Schwarz ist vielleicht} 11... Qe7 {, um e5 zu verteidigen und ein schnelles
+Tf8-d8 und Sc6-d4 zu ermöglichen. Schwarz hat gute Chancen auf Ausgleich, zum
+Beispiel} 12. Bb5 Rd8 13. Qa4 Bd7 14. Bg5 a6 15. Nd5 Nxd5 16. Bxc6 Nf6 17. Bxd7
+Qxd7 18. Qb3 Qe7 19. Rfd1 h6 20. Bxf6 Bxf6 {Die weiße Stellung ist etwas
+einfacher zu spielen, etwa nach g2-g3 und Kg1-g2.}) ({(b)} 11... Nh5 {[%csl
+Yd4,Yf4][%cal Gh5f4,Gc6d4,Gg7e5,Ge5d4] ist eine typische Idee für so eine
+Stellung. Die Absicht ist Sh5-f4 und Sc6-d4 wird jetzt auch eine Möglichkeit.}
+12. Bc4 {Wenn die Spannung im Zentrum aufgelöst ist, dann ist das Feld c4 ein
+besseres für den Läufer.} Nf4 13. Qxd8 Rxd8 14. Ng5 Be6 15. Nxe6 Nxe6 16.
+Bxe6 fxe6 17. Rfd1 Nd4 18. Rac1 Rac8 19. Kf1 Kf7) 12. Bb5 {Die nicht so
+subtile Idee dieses Zugs ist einfach den Springer auf c6 zu nehmen, um der
+schwarzen Stellung die Dynamik zu nehmen und mit einer Bauernschwäche zu
+versehen.} Na5 ({Der Wert des Ansatzes wird sichtbar nach} 12... Qa5 13. Bxc6
+bxc6 14. Qc2 h6 15. Na4 Nd7 16. Nd2 Rfc8 17. b3 c5 18. Nb2 $1 Nb6 19. Ndc4 Nxc4
+20. Nxc4 Qa6 21. Rac1 {nach einer Analyse von Smirin. Weiß will den anderen
+Turm auf die d-Linie bringen. Schwarz hat gar kein Gegenspiel.}) 13. Qe2 a6 14.
+Bd3 Nc6 ({Adams empfiehlt hier auch} 14... Nh5 {, aber Weiß behält einenn
+kleinen Vorteil nach} 15. Rfd1) 15. Rfd1 {mit etwas Vorteil.} Nd4 {muss Weiß
+nicht fürchten wegen} 16. Bxd4 exd4 17. Bc4 {mit der Absicht} Nh5 18. e5 Nf4
+19. Qe4 *
+

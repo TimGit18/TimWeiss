@@ -1,0 +1,50 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Pavasovic-Gambit"]
+[Black "Typische IDB-Stellung"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "33"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} Nf6 {
+Das ist der stärkste Gegenzug von Schwarz.} 3. e5 {Analog der
+Alekhine-Verteidigung lockt Schwarz den Bauern nach e5, um ihn zu schwächen
+und das starke Feld d5 zu besetzen. Er wird den Bauern mit Sb8-c6 und d7-d6
+weiter unter Druck setzen und angreifen. Anders als in der
+Alekhine-Verteidigung kann Weiß nicht gut c3-c4 spielen, denn das wäre ein
+ernsthafter Tempoverlust.} Nd5 {Der Springer kann hier nicht so schnell
+vertrieben werden. Er darf aber auch nicht einfach so toleriert werden.} 4. d4
+{Weiß muss versuchen die Stellung zu öffnen, um den starken Springer auf d5
+zu unterminieren und um sein Zentrum zu stärken.} cxd4 5. cxd4 e6 {Schwarz
+will sich nicht auf die gefährlichen Varianten des Pavasovic-Gambits
+einlassen, die nach d7-d6 entstehen, sondern strebt ein eher positionelleres
+Spiel an.} 6. Nf3 d6 {Trotzdem muss Schwarz das weiße Zentrum befragen.} 7.
+Bc4 {Ein Vorteil dieses Zugs ist, dass sich Schwarz nicht so langsam
+entwickeln kann.} ({Natürlich ist die Diagonale b1-h7 die ideale für den
+weißen Läufer, aber nach} 7. Bd3 {ist} Nb4 $1 {sehr ärgerlich. Weiß muss
+hier schon Konzessionen machen, zum Beispiel} 8. Bc4 dxe5 9. Nxe5 Qxd4 $1 10.
+Qxd4 Nc2+ 11. Kd1 Nxd4 {mit Mehrbauer und besserer Stellung für Schwarz.})
+7... Nc6 8. O-O {Die typische IDB-Stellung erreicht man nach} Nb6 9. Bd3 ({(a)
+} 9. Bb5 {ist die alte Fortsetzung.} Bd7 10. Nc3 a6 11. Bd3 dxe5 12. dxe5 Nb4)
+({(b)} 9. Bb3 {kann zu einem Damentausch führen nach} dxe5 10. dxe5 Qxd1 11.
+Rxd1 {, wonach der weiße Raumvorteil und die einfache Entwicklung eine gute
+Chance auf Vorteil bieten.} Bd7 12. Nc3 Na5 13. Bc2 {Der Läufer darf nicht
+getauscht werden.} Rc8 14. Bd3) 9... Nb4 $1 {Der direkte Angriff auf den
+weißen Königsläufer bietet Schwarz die besten Chancen.} ({Das direkte
+Schlagen} 9... dxe5 10. dxe5 Nb4 11. Be4 Qxd1 12. Rxd1 {ist sogar eine bessere
+Version des damenlosen Mittelspiels für Weiß.}) 10. Be2 $1 {Der weiße
+Läufer muss um jeden Preis gehalten werden.} ({Der schwarze Verzicht auf den
+Bauerntausch im Zentrum ist gerechtfertigt nach} 10. Be4 $6 d5 $1) 10... dxe5
+11. Nxe5 ({Weniger vorteilhaft für Weiß ist} 11. dxe5 Qxd1 {, denn nach} 12.
+Rxd1 $4 Nc2 {verliert Weiß Material.}) 11... Bd7 12. Nc3 Be7 13. Bf3 Bc6 14.
+a3 N4d5 15. Qd3 O-O 16. Be4 h6 17. Bd2 {Weiß hat seine Figuren aktiver
+platziert in Pavasovic,D - Horvath,A Austria 2002} *
+

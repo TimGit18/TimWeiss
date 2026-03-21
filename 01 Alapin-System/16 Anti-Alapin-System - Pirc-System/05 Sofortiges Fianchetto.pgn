@@ -1,0 +1,28 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pirc-Anti-Alapin"]
+[Black "Sofortiges Fianchetto"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "17"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das Pirc-Anti-Alapin startet mit} d6 3. d4 Nf6 $1 {Schwarz
+wartet mit dem Schlagen auf d4 bis Weiß den Läufer nach d3 bringt, um den
+Bauern e4 zu verteidigen.} ({Eine bedeutende Anzahl von Partien beginnt mit
+der Zugumstellung} 3... cxd4 4. cxd4 Nf6 5. Nc3 g6) 4. Bd3 $1 {Das Zentrum zu
+halten ist viel besser als den Bauern auf c5 zu nehmen.} (4. dxc5 $6 Nc6 $1 5.
+cxd6 Nxe4 {ist jetzt möglich, da das Damenschach auf a4 nicht mehr geht.}) {
+Das sofortige Fianchetto} 4... g6 {erlaubt die weiße Option} 5. dxc5 dxc5 6.
+e5 $1 Nd5 {Andere Züge sind noch schlechter.} ({(a)} 6... Nfd7 7. e6 $1) ({(b)
+} 6... Ng4 7. Bb5+ Nc6 8. Bxc6+ bxc6 9. Qxd8+ Kxd8 10. Nf3) ({(c)} 6... c4 7.
+Qa4+) 7. Be4 {, wonach Weiß sehr gut punktet.} Nb6 8. Qxd8+ Kxd8 9. Na3 *
+

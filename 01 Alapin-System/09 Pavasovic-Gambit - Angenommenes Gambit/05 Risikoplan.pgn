@@ -1,0 +1,68 @@
+[Event "CBM 105"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pavasovic-Gambit"]
+[Black "Risikoplan"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Dorian Rogozenco"]
+[PlyCount "49"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} Nf6 {
+Das ist der stärkste Gegenzug von Schwarz.} 3. e5 {Analog der
+Alekhine-Verteidigung lockt Schwarz den Bauern nach e5, um ihn zu schwächen
+und das starke Feld d5 zu besetzen. Er wird den Bauern mit Sb8-c6 und d7-d6
+weiter unter Druck setzen und angreifen. Anders als in der
+Alekhine-Verteidigung kann Weiß nicht gut c3-c4 spielen, denn das wäre ein
+ernsthafter Tempoverlust.} Nd5 {Der Springer kann hier nicht so schnell
+vertrieben werden. Er darf aber auch nicht einfach so toleriert werden.} 4. d4
+{Weiß muss versuchen die Stellung zu öffnen, um den starken Springer auf d5
+zu unterminieren und um sein Zentrum zu stärken.} cxd4 5. cxd4 d6 6. Nf3 Nc6
+7. Bc4 Nb6 8. Bb3 dxe5 9. d5 $1 {Weiß muss dieses Bauernopfer schon bringen.}
+({Nach} 9. dxe5 $2 Qxd1+ 10. Bxd1 {hat Schwarz sein Ziel erreicht und die
+Stellung vereinfacht.}) 9... Na5 {Das ist bestimmt das beste Feld für den
+Springer.} 10. Nc3 Nxb3 {Das ist der gebräuchlichste Zug in dieser Stellung.}
+11. Qxb3 e6 {Schwarz will natürlich, dass Weiß diesen Bauern schlägt. Dann
+könnte er seinen Damenläufer entwickeln und die Dame von b3 vertreiben, wo
+sie sehr aktiv steht.} 12. Nxe5 {Der folgende Plan ist sehr riskant und war in
+den 90er Jahren sehr beliebt, um die schwarze Entwicklung zu vervollständigen:
+} Bd6 13. Qb5+ Kf8 {Das ist die beliebteste Antwort.} ({Ähnlich wie in der
+Hauptvariante folgt man nach} 13... Ke7 14. dxe6 Bxe6 15. Bf4) 14. dxe6 Bxe6
+15. Bf4 ({Nicht so gut ist} 15. Be3 Qc7 16. f4 Nc4 17. Nxc4 Bxc4 18. Qf5 Re8
+19. Kf2 Re6 20. g3 h5 $15 {0-1 Boonet,G-Sperhake,K/ICCF Email 2001 (30)}) (15.
+O-O f6 16. Rd1 fxe5 17. Ne4 Bd7 18. Qe2 Be7 19. Qf3+ Ke8 20. Qh5+ Kf8 21. Qf3+
+Ke8 22. Qh5+ Kf8 23. Qf3+ Ke8 {1/2-1/2 Fomin,A-Sapunov,E/Tula 2004}) 15... Bxe5
+$2 {Das ist ein Fehler, weil der schwarze Stellung zu instabil ist.} ({(a)
+Korrekt ist} 15... Nc4 {mit vernünftigen Chancen für Schwarz} 16. O-O-O (16.
+Nxc4 Bxf4 17. Ne3 Qd7 18. Qxd7 Bxd7 19. Rd1 Bc6 $15 {0-1 Mousessian,J-Morss,M/
+Corr 1998 (38)}) 16... Qc7 17. Rxd6 $6 ({Besser ist} 17. Nd7+ Qxd7 18. Bxd6+
+Nxd6 19. Qxd7 Bxd7 20. Rxd6 Ke7 $11 {mit gleichen Chancen.}) 17... Nxd6 18. Qb4
+Qb6 19. Nd7+ Bxd7 20. Bxd6+ Kg8 21. Qf4 h5 $17 {0-1 Neubauer,M-Tratar,M/
+Portoroz 1998 (70)}) ({(b) Auch nicht gut ist} 15... Qe7 16. O-O-O Bb4 17. Bd2
+$36 f6 $6 18. Nd3 Bxc3 19. Bxc3 Qf7 20. Nc5 Bc4 21. Qa5 Kg8 22. Ne4 Bxa2 23.
+Nd6 Qb3 24. Rhe1 $16 {1-0 Szabo,Z-Faust,D/ICCF Email 2000 (26)}) 16. Qxe5 $16 {
+Weiß hat einen offensichtlichen Vorteil aufgrund der gegnerischen Probleme
+mit dem König.} Nc4 $6 {Das ist eine seltsame Art Aktivität zu zeigen,
+wohingegen Schwarz einen konstruktiven Verteidigungsplan braucht.} (16... Qe7
+17. O-O Bc4 18. Rfe1 Qxe5 19. Bxe5 $16 {Sogar in diesem Endspiel fühlt sich
+Schwarz unbehaglich.} Rd8 (19... f6 20. Bd6+ Kf7 21. Re7+ Kg6 22. Rxb7 $16) 20.
+Rad1 Rxd1 21. Rxd1 Ke7 22. Bxg7 $16) (16... Nd7 $142 17. Qe4 (17. Qe2 h6 18.
+O-O Kg8 $16 {[%cal Gg8h7]}) 17... Nf6 18. Qxb7 Kg8 19. O-O h6 20. Qf3 Kh7 $16)
+17. Qe4 g5 {In dieser bereits schwierigen Situation verliert dieser Zug alle
+Hoffnungen für Schwarz.} (17... Nxb2 $2 18. Qb4+ $18) (17... Kg8 18. Qxb7 h6
+19. O-O ({Schwarz überlebt nach} 19. Qe4 $2 Nxb2 20. O-O Rc8 {[%cal Gd8d3]})
+19... Kh7 20. Qe4+ g6 $16 {/+-}) 18. Rd1 $1 Qe7 19. Bc1 $18 {[%csl Rf8,Rg5]
+[%cal Gb2b3,Yc1b2]} Rg8 ({Schwarz kann zwar die Damen tauschen} 19... Bg4 20.
+f3 Qxe4+ 21. Nxe4 {aber er verliert den Bauern auf g5.}) (19... Kg7 20. b3 (20.
+O-O Rhd8 21. b3 Nd6 22. Qe2 $18) 20... Qf6 (20... Nb6 21. O-O $18) 21. Ne2 Ne5
+22. O-O $18) 20. O-O Rg6 21. Rfe1 Rc8 22. Qd4 Kg8 23. Nd5 ({Stärker war das
+einfache} 23. b3 Nb6 24. Bb2 $18) 23... Qd8 24. b3 Nb6 $2 (24... Qxd5 $1 25.
+Qxd5 Bxd5 26. Rxd5 Nb6 27. Rxg5 Rc2 {würde Schwarz noch Chancen einräumen.})
+25. Bb2 {mit 1-0 in Jonkman,H (2399)-Bosboom,M (2426) Wijk aan Zee 2005} *
+

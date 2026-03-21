@@ -1,0 +1,70 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zentrumsgegenstoß"]
+[Black "Prophylaxie-Variante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "39"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} d5 {
+Das ist die aggressivste schwarze Antwort. Der Zug zwingt Weiß sofort, sich
+zu entscheiden. Er ist dadurch gerechtfertigt, dass Schwarz sofort seinen
+Anspruch auf das Zentrum geltend macht und die schwarze Dame nicht auf d5
+durch den weißen Damenspringer angegriffen werden kann. Weiß erhält in der
+Folge einen isolierten Damenbauern auf d4, der mit Dame, Damenspringer und
+Damenläufer angegriffen werden kann. Das ist die aggressivste schwarze
+Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält einen
+isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden kann.} 3. exd5 {
+Weiß muss und will diesen Bauern schlagen. Er lockt die schwarze Dame in das
+Zentrum. Hier steht sie sehr aktiv, ist aber auch angreifbar.} Qxd5 {Für den
+Augenblick macht die schwarze Stellung einen guten Eindruck. Die schwarze Dame
+kontrolliert die Zentralfelder und der Bauer auf c5 reduziert das weiße
+Bauernzentrum auf d4.} 4. d4 {Dieser Zug ist der programmatische Vorstoß,
+denn Weiß erobert sich auf Kosten eines isolierten Damenbauern Raum und und
+öffnet Linien und Diagonalen für seine Figuren.} Nc6 {[%csl Ye5][%cal Rc5d4,
+Rc6d4,Rd5d4,Ge7e5,Re5d4] In diesem System dreht sich alles um den Vorstoß
+e7-e5 und wie Schwarz den Druck auf d4 noch weiter steigern kann. Schwarz kann
+auch direkt e7-e5 spielen (wie in der Variante (b) unten angegeben) oder er
+kann auch erst auf d4 schlagen, um danach e7-e5 zu spielen (wie in der
+Variante (a) unten angegeben).} 5. Nf3 {Weiß deckt den Bauern auf d4 und
+entwickelt eine Figur.} cxd4 6. cxd4 e5 7. Nc3 $1 {Weiß muss die Dame
+angreifen und die Spannung im Zentrum erhöhen. Er sollte nicht den Fehler
+machen, hier die Spannung im Zentrum aufzulösen. Denn mit dem Springer auf f3
+wäre die nachfolgende Fesselung durch den Läufer auf g4 sehr ärgerlich.} Bb4
+{Nur dieser Zug rechtfertigt den Tausch auf dem Feld d4. Wenn Schwarz die Dame
+zurückzöge, dann erlaubt er den Vorstoß d4-d5. Dies würde die
+Eröffnungsstrategie von Schwarz, die auf Gegendruck ausgerichtet ist,
+unterminieren.} 8. Bd2 $1 {Auch hier sollte Weiß die Spannung halten. Nach
+dem Tausch auf e5 gibt es keinen Eröffnungsvorteil mehr für Weiß} Bxc3 {
+Alternativen sind nicht in Sicht} 9. Bxc3 e4 $1 10. Ne5 {[%csl Gc4,Yf7][%cal
+Gf1c4,Rc4f7,Re5f7]} Nxe5 {Schwarz hat keine Wahl, denn es drohte Lf1-c4.} 11.
+dxe5 Ne7 $1 12. Qa4+ {[%csl Ya3,Yd1,Yd6][%cal Ga4a3,Ra3e7,Ga1d1,Gd1d6] Das ist
+der meistgespielte Zug. Der Zug verfolgt zwei Ideen: die Dame will die
+Diagonale a3-f8 besetzen bevor Schwarz rochieren kann und der weiße Turm will
+schnell das Feld d1 und dann später d6 erobern.} Bd7 {Das ist tatsächlich
+die beste Antwort von Schwarz. Er entwickelt eine Figur und greift die
+gegnerische Dame an.} 13. Qb4 {Weiß zielt mit der Dame auf die Punkte b7 und
+e7, so dass Schwarz nicht kurz rochieren kann.} {Eine prophylaktische Variante
+lautet} Qc6 {Dieser Zug ist gegen den Turmzug nach d1 gerichtet.} 14. Rd1 {
+Trotzdem.} e3 {Schwarz versucht die weiße Bauernstruktur zu zerstören.} (
+14... Nd5 $5 {vereinfacht die Stellung auf Kosten eines Bauern. Nach} 15. Qxe4
+Nxc3 16. Qxc6 Bxc6 17. bxc3 O-O {kann eigentlich nur Weiß gewinnen, aber es
+ist nicht einfach, denn er hat einen leichten Rückstand in der Entwicklung
+und einen zersplitterten Damenflügel.} 18. f4 g5 $1 19. Bc4 gxf4 20. O-O Rae8
+21. Rde1) 15. Rd6 $1 {Der Turm gerät oft nach d6 in dieser Variante. Dieser
+Vorschlag stammt von Chandler.} ({Die schwarze Idee wird klar nach} 15. fxe3
+Nd5 16. Qd4 Nxc3 17. Qxc3 Qxc3+ 18. bxc3 {, wonach die weißen Bauern
+zersplittert sind und einen unschönen Eindruck machen.}) 15... exf2+ 16. Kxf2
+Qc7 17. Bb5 Bc6 18. Bxc6+ Nxc6 19. Qc5 O-O 20. Rhd1 {Schwarz ist eher
+eingeschnürt und unter einigem Druck. Weiß dominiert die d-Linie. Schwarz
+muss auf die Möglichkeit von e5-e6 aufpassen, wonach der weiße Läufer in
+das Spiel kommt.} *
+

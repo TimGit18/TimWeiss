@@ -1,0 +1,35 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pavasovic-Gambit"]
+[Black "Zentrumsstabilisierung"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "31"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Mit diesem Zug bereitet Weiß ein
+starkes Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt
+hier Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf,
+sondern versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen Weiß bereitet ein starkes Bauernzentrum mit d2-d4 vor.} Nf6 {
+Das ist der stärkste Gegenzug von Schwarz.} 3. e5 {Analog der
+Alekhine-Verteidigung lockt Schwarz den Bauern nach e5, um ihn zu schwächen
+und das starke Feld d5 zu besetzen. Er wird den Bauern mit Sb8-c6 und d7-d6
+weiter unter Druck setzen und angreifen. Anders als in der
+Alekhine-Verteidigung kann Weiß nicht gut c3-c4 spielen, denn das wäre ein
+ernsthafter Tempoverlust.} Nd5 {Der Springer kann hier nicht so schnell
+vertrieben werden. Er darf aber auch nicht einfach so toleriert werden.} 4. d4
+{Weiß muss versuchen die Stellung zu öffnen, um den starken Springer auf d5
+zu unterminieren und um sein Zentrum zu stärken.} cxd4 5. cxd4 d6 6. Nf3 Nc6 (
+6... dxe5 {ist beachtenswert. Es kann folgen} 7. dxe5 Nc6 8. Bc4 Nb6 9. Qxd8+
+Nxd8 10. Bb5+ Bd7 11. Nc3 {mit etwas Entwicklungsvorsprung für Weiß.}) 7. Bc4
+{Zu einer Stabilisierung des weißen Zentrums führt} dxe5 8. Bxd5 Qxd5 9. Nc3
+Qd6 (9... Qa5 10. d5 Nb4 11. Nxe5 Bf5 12. O-O) 10. d5 Nd4 11. Nxd4 exd4 12.
+Qxd4 e5 13. Qd3 {Das schwarze Gegenspiel basiert auf dem Läuferpaar und der
+Bauernmehrheit auf dem Königsflügel.} Bd7 14. O-O f5 15. Re1 Kf7 16. a4 {
+[%csl Ya3,Yb3,Yb5][%cal Gc3b5,Rb5d6,Gb2b3,Gc1a3,Ra3d6] Am besten greift Weiß
+hier am Damenflügel an.} *
+

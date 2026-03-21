@@ -1,0 +1,53 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches Fianchetto"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "40"]
+[EventDate "2010.04.02"]
+
+1. e4 c5 2. c3 {[%csl Rd4][%cal Gd2d4] Weiß bereitet ein starkes
+Bauernzentrum mit d2-d4 vor.} d5 {Das ist die aggressivste schwarze Antwort.
+Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß erhält zwar einen
+isolierten Damenbauern, der mit Sb8-c6 und Lc8-g4 (nach Deckung von Sg1-f3)
+angegriffen werden kann. Dafür erhält er Raum im Zentrum und eine bequeme
+Kontrolle über die Zentrumsfelder e5 und c5. Das ist die aggressivste
+schwarze Antwort. Der Zug zwingt Weiß sofort, sich zu entscheiden. Weiß
+erhält einen isolierten Damenbauern, der mit Sc6 und Lg4 angegriffen werden
+kann.} 3. exd5 {Weiß muss im Zentrum schlagen, um das starke schwarze
+Bauernzentrum zu zerstören. Er lockt eine schwarze Figur (meistens die Dame)
+in das Zentrum, die dann von den weißen Leichtfiguren angegriffen werden kann.
+} Qxd5 {[%csl Yd3,Yd4,Yd5,Ye4,Yf3,Yg2][%cal Rd5g2,Rd5d2] Dieser Zug ist ganz
+im Sinne des schwarzen Plans. Schwarz platziert die Dame auf einem zentralen
+Feld, auf dem sie eine maximale Kontrolle über die weißen Felder im Zentrum
+ausübt. Außerdem kann die schwarze Dame im Moment nicht vertrieben werden
+und übt einen gewissen Druck auf den zu erwartenden Bauernvorstoß d2-d4 aus.
+Schwarz hat jetzt hier die drei grundsätzlichen Pläne zur Auswahl: (1) Er
+setzt wie oben beschrieben das weiße Zentrum mit seinen Figuren unter Druck. 
+(2) Er versucht, dass weiße Zentrum mit dem thematischen Gegenstoß e7-e5
+aufzulösen, was allerdings sehr präzises Spiel erfordert. (3) Er versucht
+das weiße Zentrum direkt aufzulösen und nimmt dabei einen forcierten
+Figurenabtausch in Kauf.} 4. d4 {Weiß besetzt sofort das Zentrum mit seinem
+Damenbauern. Er hat keine Angst vor der Isolierung dieses Bauern, weil sie
+seinen Figuren (den Läufern und dem Damenspringer) gute Felder für die
+beschleunigte Entwicklung gibt.} g6 {Dieser Zug stellt eine vernünftige
+Alternative zu den Hauptvariante dar. Das Klassische Fianchetto wird gerne von
+Spielern angewendet, die gerne die Stellung gegen niedriger bewertete Gegner
+aus dem Gleichgewicht bringen wollen.} 5. Nf3 Bg7 6. Na3 $5 {Dieser Zug ist
+gewöhnlich effektiver gegen Systeme mit g7-g6 als gegen Systeme mit e7-e6,
+denn der weiße Königsläufer auf c4 nimmt den Bauern auf f7 in das Visier.}
+Nf6 7. Bc4 Qe4+ 8. Be3 O-O 9. O-O ({Weiß kann mit} 9. dxc5 {zwar einen Bauern
+gewinnen, aber Schwarz hat eine gute Antwort mit} Ng4) 9... cxd4 10. Nxd4 $1 {
+Dies ist die herausfordernste Fortsetzung.} (10. Bxd4 Nc6 11. Re1 Qf4 {hat
+sich als sehr gesund für Schwarz erwiesen.}) 10... Qe5 {Das ist die
+Hauptvariante. Schwarz akzeptiert eine schwächere Bauernstellung, aber seine
+Dame kommt in Sicherheit.} 11. Qf3 Nc6 {Wenigstens kann hier die Dame zurück
+nach c7.} 12. Nxc6 bxc6 13. Rae1 {Das ist die natürlichste Fortsetzung.} ({
+Weiß sollte folgende Abwicklung vermeiden} 13. Qxc6 Ng4) 13... Qc7 14. Nc2 a5
+15. Nd4 Ba6 16. Bf4 Qd7 17. Bxa6 Rxa6 18. Nb3 Ra7 19. Be3 Raa8 20. Bd4 Rfe8 {
+Schwarz ist dabei seine Eröffnungsprobleme zu lösen.} *
+

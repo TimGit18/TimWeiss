@@ -1,0 +1,70 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Läufergambit"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "49"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. (a) Die wichtigste Alternative bildet das Moderne System,
+das ebenfalls einen Gegenangriff gegen den Bauern e4 darstellt.} Nf6 {[%csl
+Ye4][%cal Rf6e4] Der weiße e-Bauer kann nicht gut verteidigt werden.} 3. e5 {
+Der Vorstoß des e-Bauern bildet die beste weiße Fortsetzung. Weiß erobert
+Raum im Zentrum, und seine Figuren können sich hinter dem Bauern, der früher
+oder später mit d7-d6 angegriffen wird, frei entwickeln.} Nd5 {[%csl Yc4,Yd4]
+[%cal Gd2d4,Gf1c4,Gc4d5] Ähnlich wie in der Alekhine-Verteidigung findet
+Schwarz ein gutes Zentralfeld für den Springer. Weiß muss diesen mit Tempo
+vertreiben und parallel dazu ein gutes Bauernzentrum aufbauern.} 4. d4 cxd4 {
+Eine valide Alternative stellt das Läufergambit mit} 5. Nf3 Nc6 {dar. Weiß
+opfert einen Bauern für Entwicklungsvorsprung. Anders als im Pavasovic-Gambit
+schlägt Weiß nicht auf d4, weil der Bauer erstens sowieso nicht auf c3
+schlagen kann und zweitens Weiß Zeit spart, um seine Figuren schnell zu
+entwickeln.} ({(a) Der Zug} 5... e6 {stellt eine Transposition in das
+Anti-Pavasovic-Gambit dar.}) ({(b) Der Zug} 5... d6 {kann nach Zurückschlagen
+in eine Transposition in das Pavasovic-Gambit münden oder auch nicht nach} 6.
+Bc4 Nb6 7. Bb3 Nc6 8. exd6) 6. Bc4 {[%csl Yd5][%cal Gc4d5] Weiß greift sofort
+an und bereitet die kurze Rochade vor.} Nb6 {Durch den Rückzug und
+gleichzeitigen Angriff auf den Läufer gewinnt Schwarz Zeit.} 7. Bb3 d6 {
+Die Hauptfortsetzung lautet eigentlich d7-d5, aber nach Schlagen en passent
+ergibt sich dieselbe Stellung.} 8. exd6 Qxd6 $1 {Das ist der beste Zug von
+Schwarz in dieser Stellung. Er vermeidet das gierige Schlagen auf c3 und
+entwickelt seine Dame auf ein gutes zentrales Feld.} 9. O-O $1 {Weiß hält an
+seinem Gambit-Angebot fest. Natürlich könnte er auch den Bauern auf d4
+schlagen, aber Schwarz entwickelt seinen Damenläufer nach e6 und reduziert
+das weiße Angriffspotential.} Be6 $1 {Nur dieser Zug macht die gesamte
+Variante spielbar für Schwarz. Er möchte den mächtigen Königsläufer von
+Weiß abtauschen.} 10. Na3 $1 {[%csl Yb5,Yd6][%cal Ga3b5,Gb5d6] Dieser Zug,
+der den Angriff auf die Dame über b5 vorbereitet, ist der gefährlichste Zug
+für Schwarz} dxc3 $1 {Die Annahme des Läufergambits ist der kritische Test
+für die gesamte Variante. Andere Züge bieten Weiß die Möglichkeit auf
+Vorteil.} 11. Qe2 $1 {Der Zug vermeidet den Damentausch. Andere Züge bieten
+Weiß geringere Erfolgsaussichten. Er bietet einen zweiten Bauern an, den
+Schwarz aber nicht nehmen kann.} Bxb3 12. Nb5 $1 {Ein vitaler Zwischenzug.} Qb8
+13. axb3 {Der weiße Entwicklungsvorsprung und die aktiven Figuren geben
+Kompensation für den Bauern, allerdings hat Schwarz keine Schwächen in der
+Stellung.} e5 {Schwarz muss sich früher oder später entwickeln. Und dieser
+Zug ist sehr verbreitet.} 14. Nbd4 $1 {Das ist der gefährlichste Zug für
+Schwarz. Der Bauer e5 ist bedroht.} Nxd4 15. Nxd4 f6 {bildet die Hauptvariante
+im Läufergambit. Weiß wird einen Bauern zurückgewinnen. Schwarz braucht
+noch etwas Zeit, um seinen König in Sicherheit zu bringen.} 16. bxc3 Kf7 17.
+Nb5 a6 18. Be3 axb5 19. Bxb6 Rxa1 20. Rxa1 Qe8 21. Ra5 {In dieser Stellung
+gibt es zwei Fortsetzungen.} b4 {Das wird am häufigsten gespielt.} ({Seltener
+ist} 21... Qc6 22. Qxb5 Qxc3 23. Qd5+ Kg6 24. h4 Qc6 25. h5+ {ergibt einen
+sehr gefährlichen Angriff für Weiß. Weiß hat excellente praktische Chancen.
+} Kxh5 (25... Kh6 26. Be3+ g5 27. Qf7 Bg7 28. Rc5 Qe8 29. Qxb7 Qxh5 30. Rd5)
+26. Qf7+ g6 27. Be3 Bh6 28. Rc5 Qd6 29. Rd5 Qf8 30. Qe6 Bxe3 31. Qh3+ Kg5 32.
+Qxe3+ Kf5 33. Qd3+ Ke6 (33... Kg5 34. f4+ Kxf4 35. g3+ Kg5 36. Qe4 Kh6 37. Qh4+
+Kg7 38. Rd7+) 34. Qc4 Kf5) 22. c4 {Weiß will den Bauern gewinnen, ohne seine
+potentielle Mehrheit auf dem Damenflügel zu gefährden.} Qc6 23. Rb5 Be7 24.
+Ba5 Ra8 25. h3 {gefolgt von Tb5xb4 ist möglicherweise etwas besser für Weiß
+wegen seiner Damenflügel-Mehrheit und seines sicheren Königs.} *
+

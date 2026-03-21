@@ -1,0 +1,30 @@
+[Event "Starting Out: The c3 Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pirc-Anti-Alapin"]
+[Black "Damenspringerzug"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "John Emms"]
+[PlyCount "29"]
+[SourceVersionDate "2021.09.13"]
+
+1. e4 c5 2. c3 {[%csl Yd4][%cal Gd2d4] Das ist das Alapin-System gegen die
+Sizilianische Verteidigung. Mit diesem Zug bereitet Weiß ein starkes
+Bauernzentrum mit d2-d4 vor. Im Gegensatz zum Offenen Sizilianer gibt hier
+Weiß den Damenbauern nicht gegen den schwarzen Läuferbauern auf, sondern
+versucht ein eigenes Bauernzentrum der möglichen schwarzen Mehrheit
+entgegenzusetzen. Das Pirc-Anti-Alapin startet mit} d6 3. d4 Nf6 $1 {Schwarz
+wartet mit dem Schlagen auf d4 bis Weiß den Läufer nach d3 bringt, um den
+Bauern e4 zu verteidigen.} ({Eine bedeutende Anzahl von Partien beginnt mit
+der Zugumstellung} 3... cxd4 4. cxd4 Nf6 5. Nc3 g6) 4. Bd3 $1 {Das Zentrum zu
+halten ist viel besser als den Bauern auf c5 zu nehmen.} (4. dxc5 $6 Nc6 $1 5.
+cxd6 Nxe4 {ist jetzt möglich, da das Damenschach auf a4 nicht mehr geht.}) {
+Der Damenspringerzug} 4... Nc6 {erschreckt nicht besonders wegen} 5. Nf3 Bg4 6.
+d5 $1 {ist eine effektive Antwort. Zum Beispiel} Bxf3 (6... Ne5 {scheitert an}
+7. Nxe5 $1 Bxd1 8. Bb5+ Nd7 9. Bxd7+ Qxd7 10. Nxd7 Kxd7 11. Kxd1 {mit
+Figurengewinn für Weiß.}) 7. Qxf3 Ne5 8. Bb5+ $1 Nfd7 9. Qe2 a6 10. Ba4 c4
+11. O-O b5 12. Bc2 Nc5 13. b4 $1 Ncd3 14. Be3 {Nun droht bereits f2-f4.
+Schwarz muss einen Bauern geben} g5 15. Bxg5 *
+
