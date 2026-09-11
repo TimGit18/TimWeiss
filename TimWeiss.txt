@@ -359,7 +359,8 @@ Buch 2: Offene Spiele - Italienische Partie / Zweispringerspiel / Philidor-Verte
 I. 	Italienische Partie:		Zentrumsgegenstoß, Italienische Alternativen, Giouco Piano, Modernes System
 II. 	Zweispringerspiel:		Klassisches Zweispringerspiel, Früher Zentrumsgegenstoß, Königsfianchetto	
 III. 	Anti-Italienisch:		Ungarische Partie, Semi-Italienisch, Frühes Fianchetto, Geschlossenes Italienisch
-IV. 	Philidor-Verteidigung:		Antoshin-Verteidigung, Larsen-Verteidigung, Hanham-Verteidigung, Moderne Verteidigung		V. 	Russische Verteidigung:		Steinitz-System, Elefanten-Gambit, Lettisches Gambit
+IV. 	Philidor-Verteidigung:		Antoshin-Verteidigung, Larsen-Verteidigung, Hanham-Verteidigung, Moderne Verteidigung	
+V. 	Russische Verteidigung:		Steinitz-System, Elefanten-Gambit, Lettisches Gambit
 ==================================================================================================================================
 Buch 3: Französische und Caro-Kann-Verteidigung
 ==================================================================================================================================
