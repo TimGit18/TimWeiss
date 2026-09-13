@@ -50,6 +50,7 @@
 16 Anti-Alapin-System - Pirc-System  
 17 Anti-Alapin-System - Geschlossenes System  
 18 Anti-Alapin-System - Alternatives System  
+19 Anti-Alapin-System - O'Kelly-System  
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ## 02 Italienische Partie
