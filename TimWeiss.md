@@ -58,7 +58,7 @@
 ### Sveshnikov-Angriff	
 ----------------------------------------------------------------------------------------------------------------------------------
 01 Sveshnikov-Angriff - Forciertes System  
-02 Sveshnikov-Angriff - Anti-Sveshnikov-Angriff  
+02 Sveshnikov-Angriff - Mamedyarov-System
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ### Schottisches Gambit  
@@ -210,3 +210,42 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 01 Flankenspiele - The Tango   
 02 Flankenspiele - Owen-System  
+
+----------------------------------------------------------------------------------------------------------------------------------
+## Buch  
+----------------------------------------------------------------------------------------------------------------------------------
+### Buch 1: Sizilianische Verteidigung  
+----------------------------------------------------------------------------------------------------------------------------------
+01 Aggressives IDB-System   - Abtauschsystem, Zentrumgsgegenstoß, Benjamin-Gambit  
+02 Positionelles IDB-System - Klassisches Fianchetto, IDB-Systeme, Anti-Alapin-Gambit  
+03 Pavasovic-Gambit         - Angenommenes und Abgelehntes Gambit, Damenflügel-Fianchetto  
+04 Läufergambit             - Angenommenes und Abgelehntes Gambit, Modernes Fianchetto  
+05 Anti-Alapin-System       - Französisches System, Pirc-System, Geschlossenes System, Alternatives System  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Buch 2: Offene Spiele  
+----------------------------------------------------------------------------------------------------------------------------------
+01 Italienische Partie      - Sveshnikov-Angriff  
+02 Zweispringerspiel        - Schottisches Gambit  
+03 Anti-Italienisch         - Ungarische Partie, Semi-Italienisch, Frühes Fianchetto, Geschlossenes Italienisch  
+04 Philidor-Verteidigung    - Antoshin-Verteidigung, Larsen-Verteidigung, Hanham-Verteidigung, Moderne Verteidigung  
+05 Russische Verteidigung   - Steinitz-System, Elefanten-Gambit, Lettisches Gambit
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Buch 3: Halboffene Spiele
+----------------------------------------------------------------------------------------------------------------------------------
+01 Französische Verteidigung    - Angenommenes und Abgelehntes Korchnoi-Gambit  
+02 Französische Verteidigung    - Klassisches Tarrasch-System, Anti-Tarrasch-System  
+03 Französische Verteidigung    - Rubinstein-Verteidigung, Guimard-Verteidigung  
+04 Caro-Kann-Verteidigung       - Panov-Botvinnik-Angriff  
+05 Caro-Kann-Verteidigung       - Anti-Panov-Botvinnik-Angriff  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Buch 4: Flankenspiele  
+----------------------------------------------------------------------------------------------------------------------------------
+01 Skandinavische Verteidigung  - Klassisches System, Modernes System, Portugiesisches Gambit  
+02 Alekhine-Verteidigung        - Emms-Davies-Plan, Voronezh-System  
+03 Pirc-Ufimcev-Verteidigung    - Tschechisch-Pirc, Klassisches System, Modernes System  
+04 Moderne Verteidigung         - Nordsee-Verteidigung, The Sniper, Gurgenidze-System, Tiger's Modern, Hippopotamus, 150-Attack  
+05 Flankenspiele                - The Tango, Owen-Verteidigung, Birmingham-Verteidigung, Borg-Verteidigung	
+
