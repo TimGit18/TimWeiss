@@ -39,9 +39,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 ### Läufergambit  
 ----------------------------------------------------------------------------------------------------------------------------------
-12 Läufergambit - Modernes Fianchetto  
-13 Läufergambit - Angenommenes Gambit  
-14 Läufergambit - Anti-Läufergambit  
+12 Läufergambit - Angenommenes Gambit  
+13 Läufergambit - Anti-Läufergambit  
+14 Läufergambit - Modernes Fianchetto  
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ### Anti-Alapin-System  
