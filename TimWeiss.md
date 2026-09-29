@@ -58,7 +58,7 @@
 ### Sveshnikov-Angriff	
 ----------------------------------------------------------------------------------------------------------------------------------
 01 Sveshnikov-Angriff - Forciertes System  
-02 Sveshnikov-Angriff - Mamedyarov-System
+02 Sveshnikov-Angriff - Anti-Sveshnikov-System
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ### Schottisches Gambit  
