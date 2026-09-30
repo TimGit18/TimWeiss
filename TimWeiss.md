@@ -74,8 +74,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 08 Anti-Italienische Partie - Ungarische Partie  
 09 Anti-Italienische Partie - Semi-Italienisch  
-10 Anti-Italienische Partie - Modernes System  
-11 Anti-Italienische Partie - Geschlossenes System  
+10 Anti-Italienische Partie - Geschlossenes System  
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ## 03 Philidor-Verteidigung  
